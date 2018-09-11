@@ -1,7 +1,7 @@
 ---
 title: Welcome
-description: Welcome to My Page
-layout: default
+description: omur DOT arslan AT
+layout: mydefault
 ---
 
 
@@ -10,7 +10,7 @@ layout: default
 
 My email address...
 
-Time:  17:16
+Time:  17:25
 
 
 
