@@ -1,4 +1,8 @@
 
+---
+layout: default
+---
+
 <html>
 <head>
   <title> Deneme </title>
@@ -12,9 +16,6 @@ My email address...
 
 Time:  17:00
 
----
-layout: default
----
 
 
 
