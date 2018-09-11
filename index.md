@@ -1,5 +1,5 @@
 ---
-layout: mydefault
+layout: name
 title: Home
 ---
 
