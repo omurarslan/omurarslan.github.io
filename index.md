@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Welcome
 description: Welcome to My Page
 ---
