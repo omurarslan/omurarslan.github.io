@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Deneme
-description: Describe
+title: Welcome
+description: Welcome to my homepage
 ---
 
 
