@@ -1,6 +1,7 @@
-<title> Deneme </title>
+
 
 <head>
+  <title> Deneme </title>
   <meta name="description", content="Meta description">
 </head>  
 
@@ -8,7 +9,7 @@
 
 My email address...
 
-Time:  16:52
+Time:  16:57
 
 ---
 layout: default
