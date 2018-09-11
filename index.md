@@ -3,9 +3,6 @@ layout: mydefault
 title: Home
 ---
 
-
-deneme
-
 ## Omur Arslan
 
 My email address...
