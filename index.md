@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Welcome
-description: Welcome to my homepage
+description: Welcome to My Page
 ---
 
 
