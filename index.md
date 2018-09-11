@@ -1,12 +1,14 @@
-title: Deneme
+<title> Deneme </title>
 
-description: Lets see...
+<head>
+  <meta name="description", content="Meta description">
+</head>  
 
 ## Omur Arslan
 
 My email address...
 
-Time:  16:42
+Time:  16:52
 
 ---
 layout: default
