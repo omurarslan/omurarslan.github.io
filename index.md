@@ -1,5 +1,6 @@
 ---
 layout: mydefault
+title: Home
 ---
 
 
