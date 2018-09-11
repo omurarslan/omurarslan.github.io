@@ -1,4 +1,6 @@
-
+---
+layout:mydefault
+---
 
 
 deneme
@@ -7,7 +9,7 @@ deneme
 
 My email address...
 
-Time:  17:30
+Time:  17:34
 
 
 
