@@ -1,20 +1,16 @@
 ---
 layout: default
+title: Deneme
+description: Describe
 ---
 
 
-<html>
-<head>
-  <title> Deneme </title>
-  <meta name="description", content="Meta description">
-</head>  
-</html>
 
 ## Omur Arslan
 
 My email address...
 
-Time:  17:00
+Time:  17:06
 
 
 
