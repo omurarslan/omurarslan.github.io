@@ -7,7 +7,7 @@ Introduction ...
  <p> asdfasgag asdfadga asdsagasdg asdgagag adsgagag asdfasgag asdfadga asdsagasdg asdgagag adsgagag asdfasgag asdfadga asdsagasdg asdgagag adsgagag asdfasgag asdfadga asdsagasdg asdgagag adsgagag asdfasgag asdfadga asdsagasdg asdgagag adsgagag asdfasgag asdfadga asdsagasdg asdgagag adsgagag asdfasgag asdfadga asdsagasdg asdgagag adsgagag asdfasgag asdfadga asdsagasdg asdgagag adsgagag </p>
 </div>  
 
-![useful image]({{ site.url }}/_files/omurarslan.jpg)
+ ![awesome]({{ site.url }}/_files/omurarslan.jpg)
 
 
 Lets see 17:52
