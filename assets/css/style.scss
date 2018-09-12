@@ -11,3 +11,12 @@
 a:hover {
     text-decoration: underline;
 }
+
+hr {
+  height: 1px;
+  padding-bottom: 0em;
+  margin-top: 0em;
+  line-height: 1px;
+  background: transparent url('../images/hr.png') 50% 0 no-repeat;
+  border: none;
+}
