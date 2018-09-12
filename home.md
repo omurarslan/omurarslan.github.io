@@ -6,6 +6,7 @@
  </p>
 </div>  
 </div>
+
 ## Education 
 
 * PhD
