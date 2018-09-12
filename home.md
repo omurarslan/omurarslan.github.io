@@ -1,6 +1,6 @@
 <div>
 <div style="width:180px;float:left;">
-<img src="{{ site.url }}/assets/omurarslan.jpg" style="width:150px>
+<img src="{{ site.url }}/assets/omurarslan.jpg" style="width:150px">
 <br>
 A|B|C 
 </div> 
