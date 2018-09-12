@@ -4,7 +4,9 @@
 <br>
  <a href="mailto:omur.arslan@tuebingen.mog.de"><i class="fas fa-envelope" style="font-size:1.5em;color:black;"></i></a>
  <a href="mailto:omur.arslan@tuebingen.mog.de"><i class="fab fa-linkedin" style="font-size:1.5em;color:black;"></i></a>
- |C 
+ <i class="ai ai-researchgate big-icon"></i>
+ <i class="ai ai-google-scholar big-icon"></i>
+ <i class="fa fa-github big-icon"></i>
 </div> 
 <div style="width:70%;padding-left:270px;">
 <p> asdfasgag asdfadga asdsagasdg asdgagag adsgagag asdfasgag asdfadga asdsagasdg asdgagag adsgagag asdfasgag asdfadga asdsagasdg asdgagag adsgagag asdfasgag asdfadga asdsagasdg asdgagag adsgagag asdfasgag asdfadga asdsagasdg asdgagag adsgagag asdfasgag asdfadga asdsagasdg asdgagag adsgagag asdfasgag asdfadga asdsagasdg asdgagag adsgagag asdfasgag asdfadga asdsagasdg asdgagag adsgagag asdfasgag </p>
