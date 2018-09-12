@@ -1,6 +1,6 @@
 <div>
-<div style="width:180px;float:left;">
-<img src="{{ site.url }}/assets/omurarslan.jpg" style="width:150px">
+<div style="width:280px;float:left;">
+<img src="{{ site.url }}/assets/omurarslan.jpg" style="width:300px">
 <br>
 <i class="fas fa-envelope"></i> |B|C 
 </div> 
