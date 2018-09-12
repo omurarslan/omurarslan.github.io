@@ -3,7 +3,7 @@
 <img src="{{ site.url }}/assets/omurarslan.jpg" style="width:250px">
 <br>
  <a href="mailto:omur.arslan@tuebingen.mpg.de" style="text-decoration:none;"> <i class="fas fa-envelope" style="font-size:1.5em;color:black;"></i> </a>&nbsp;
- <i class="ai ai-researchgate big-icon" style="font-size:1.5em;color:black;"></i>&nbsp;
+ <i class="ai ai-researchgate-square big-icon" style="font-size:1.5em;color:black;"></i>&nbsp;
  <i class="ai ai-orcid big-icon" style="font-size:1.5em;color:black;"></i>&nbsp;
  <i class="ai ai-google-scholar-square big-icon" style="font-size:1.5em;color:black;"></i>&nbsp;
  <i class="fab fa-github" style="font-size:1.5em;color:black;"></i>&nbsp;
@@ -17,9 +17,10 @@
  </p>
  <h2> Education </h2>
  <ul style="padding-left:30px;">
-  <li>PhD</li>
-  <li>MSc</li>
-  <li>BSc</li>
+  <li>PhD in Electrical Engineering, University of Pennsylvania, Philadelphia, PA</li>
+  <li>MSc in Electrical Engineering, University of Pennsylvania, Philadelphia, PA</li>
+  <li>MSc in Electrical & Electronics Engineering, Bilkent University, Ankra, Turkey</li>
+  <li>BSc in Electrical & Electronics Engineering, Middle East Technical University, Turkey, Ankara</li>
 </ul>  
 </div>  
 </div>
