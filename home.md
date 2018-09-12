@@ -20,8 +20,8 @@
   <li>PhD in Electrical Engineering, August 2016, University of Pennsylvania, Philadelphia, PA</li>
   <li>MSc in Electrical Engineering, August 2012, University of Pennsylvania, Philadelphia, PA</li>
   <li>MSc in Electrical & Electronics Engineering, July 2009, Bilkent University, Ankara, Turkey</li>
-  <li>BSc in Electrical & Electronics Engineering, June 2009, Middle East Technical University, Turkey, Ankara</li>
-  <li>BSc in Mechatronics (Minor), July 2009, Middle East Technical University, Turkey, Ankara</li>
+  <li>BSc in Electrical & Electronics Engineering, June 2007, Middle East Technical University, Turkey, Ankara</li>
+  <li>BSc in Mechatronics (Minor), July 2007, Middle East Technical University, Turkey, Ankara</li>
 </ul>  
 </div>  
 </div>
