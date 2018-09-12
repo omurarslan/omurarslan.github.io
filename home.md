@@ -3,7 +3,7 @@
 <img src="{{ site.url }}/assets/omurarslan.jpg" style="width:250px">
 <br>
  <a href="mailto:omur.arslan@tuebingen.mpg.de" style="text-decoration:none;"> <i class="fas fa-envelope" style="font-size:1.5em;color:black;"></i> </a>&nbsp;
- <i class="ai ai-researchgate-square big-icon" style="font-size:1.5em;color:black;"></i>&nbsp;
+ <a href="https://www.researchgate.net/profile/Omur_Arslan" target="_blank" style="text-decoration:none;"><i class="ai ai-researchgate-square big-icon" style="font-size:1.5em;color:black;"></i></a>&nbsp;
  <i class="ai ai-orcid big-icon" style="font-size:1.5em;color:black;"></i>&nbsp;
  <i class="ai ai-google-scholar-square big-icon" style="font-size:1.5em;color:black;"></i>&nbsp;
  <i class="fab fa-github" style="font-size:1.5em;color:black;"></i>&nbsp;
