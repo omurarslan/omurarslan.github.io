@@ -13,10 +13,12 @@
 <div style="width:70%;padding-left:270px;">
 <p style="text-align:justify;"> I am currently a research scientist in the Autonomous Motion Department at the Max Planck Institute for Intelligent Systems (MPI-IS), Tübingen, Germany. I received my Ph.D. degree in electrical and systems engineering from the University of Pennsylvania, Philadelphia, PA, USA, in 2016 under the supervision of Daniel E. Koditschek.
 </p>
-<p style="text-align:justify;"> My current research goal is to integrate learning, sensing, control and geometry for the design of safe feedback motion planning algorithms, especially for robots operating around people. Broadly, my research interests include robotics, motion planning, sensor networks, control theory, dynamical systems, optimization and machine learning.
+<p style="text-align:justify;"> My current research focus on the algorithmic foundations of robotics. My research goal is to integrate learning, sensing, control and geometry for the design of safe feedback motion planning algorithms, especially for robots operating around people. Broadly, my research interests include robotics, motion planning, sensor networks, control theory, dynamical systems, optimization and machine learning.
  </p>
 </div>  
 </div>
+
+<br>
 
 <div style="clear:both">
 <h2> Education </h2>
@@ -24,8 +26,8 @@
   <li>PhD in Electrical Engineering, August 2016, University of Pennsylvania, Philadelphia, PA</li>
   <li>MSc in Electrical Engineering, August 2012, University of Pennsylvania, Philadelphia, PA</li>
   <li>MSc in Electrical & Electronics Engineering, July 2009, Bilkent University, Ankara, Turkey</li>
-  <li>BSc in Electrical & Electronics Engineering, June 2007, Middle East Technical University, Turkey, Ankara</li>
-  <li>BSc in Mechatronics (Minor), July 2007, Middle East Technical University, Turkey, Ankara</li>
+  <li>BSc in Electrical & Electronics Engineering, June 2007, Middle East Technical University, Ankara, Turkey</li>
+  <li>BSc in Mechatronics (Minor), July 2007, Middle East Technical University, Ankara, Turkey</li>
 </ul>
  </div>
 
