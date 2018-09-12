@@ -5,6 +5,7 @@
  <a href="mailto:omur.arslan@tuebingen.mog.de"><i class="fas fa-envelope" style="font-size:1.5em;color:black;"></i></a>
  <a href="mailto:omur.arslan@tuebingen.mog.de"><i class="fab fa-linkedin" style="font-size:1.5em;color:black;"></i></a>
  <i class="ai ai-researchgate big-icon" style="font-size:1.5em;color:black;"></i>
+ <i class="ai ai-orcid big-icon" style="font-size:1.5em;color:black;"></i>
  <i class="ai ai-google-scholar big-icon" style="font-size:1.5em;color:black;"></i>
  <i class="fab fa-github" style="font-size:1.5em;color:black;"></i>
 </div> 
