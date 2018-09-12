@@ -19,6 +19,7 @@
 </div>
 
 <br>
+<br>
 
 <div style="clear:both">
 <h2> Education </h2>
