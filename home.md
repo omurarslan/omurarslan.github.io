@@ -1,5 +1,3 @@
-Introduction ...
-
 <div style="background-color:tomato;color:white;width:100px;float:left;padding=0px;">
  <img src="{{ site.url }}/assets/omurarslan.jpg" style="width:100px;">
 </div>  
