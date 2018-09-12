@@ -4,7 +4,8 @@ Introduction ...
  <img src="{{ site.url }}/assets/omurarslan.jpg" style="width:100px;">
 </div>  
 <div style="background-color:blue;color:white;width:100%; padding-left=150px;">
-<p> asdfasgag asdfadga asdsagasdg asdgagag adsgagag asdfasgag asdfadga asdsagasdg asdgagag adsgagag asdfasgag asdfadga asdsagasdg asdgagag adsgagag asdfasgag asdfadga asdsagasdg asdgagag adsgagag asdfasgag asdfadga asdsagasdg asdgagag adsgagag asdfasgag asdfadga asdsagasdg asdgagag adsgagag asdfasgag asdfadga asdsagasdg asdgagag adsgagag asdfasgag asdfadga asdsagasdg asdgagag adsgagag </p>
+<p> asdfasgag asdfadga asdsagasdg asdgagag adsgagag asdfasgag asdfadga asdsagasdg asdgagag adsgagag asdfasgag asdfadga asdsagasdg asdgagag adsgagag asdfasgag asdfadga asdsagasdg asdgagag adsgagag asdfasgag asdfadga asdsagasdg asdgagag adsgagag asdfasgag asdfadga asdsagasdg asdgagag adsgagag asdfasgag asdfadga asdsagasdg asdgagag adsgagag asdfasgag asdfadga asdsagasdg asdgagag adsgagag asdfasgag asdfadga asdsagasdg asdgagag adsgagag asdfasgag asdfadga asdsagasdg asdgagag adsgagag asdfasgag asdfadga asdsagasdg asdgagag adsgagag asdfasgag asdfadga asdsagasdg asdgagag adsgagag asdfasgag asdfadga asdsagasdg asdgagag adsgagag asdfasgag asdfadga asdsagasdg asdgagag adsgagag asdfasgag asdfadga asdsagasdg asdgagag adsgagag asdfasgag asdfadga asdsagasdg asdgagag adsgagag 
+ </p>
 </div>  
 
 <br>
