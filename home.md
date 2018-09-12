@@ -16,11 +16,12 @@
 <p style="text-align:justify;"> My current research goal is to integrate learning, sensing, control and geometry for the design of safe feedback motion planning algorithms, especially for robots operating around people. Broadly, my research interests include robotics, motion planning, sensor networks, control theory, dynamical systems, optimization and machine learning.
  </p>
  <h2> Education </h2>
- <ul style="padding-left:30px;">
-  <li>PhD in Electrical Engineering, University of Pennsylvania, Philadelphia, PA</li>
-  <li>MSc in Electrical Engineering, University of Pennsylvania, Philadelphia, PA</li>
-  <li>MSc in Electrical & Electronics Engineering, Bilkent University, Ankra, Turkey</li>
-  <li>BSc in Electrical & Electronics Engineering, Middle East Technical University, Turkey, Ankara</li>
+ <ul style="font-size:0.75em;padding-left:30px;">
+  <li>PhD in Electrical Engineering, August 2016, University of Pennsylvania, Philadelphia, PA</li>
+  <li>MSc in Electrical Engineering, August 2012, University of Pennsylvania, Philadelphia, PA</li>
+  <li>MSc in Electrical & Electronics Engineering, July 2009, Bilkent University, Ankara, Turkey</li>
+  <li>BSc in Electrical & Electronics Engineering, June 2009, Middle East Technical University, Turkey, Ankara</li>
+  <li>BSc in Mechatronics (Minor), July 2009, Middle East Technical University, Turkey, Ankara</li>
 </ul>  
 </div>  
 </div>
