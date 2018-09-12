@@ -1,7 +1,7 @@
 Introduction ...
 
 <div style="background-color:tomato;color:white;width:30%;float:left">
- <img src="https://raw.githubusercontent.com/omurarslan/omurarslan.github.io/master/_files/omurarslan.jpg" style="width:50%;height:50%;">
+ <img src="{{ site.url }}/_files/omurarslan.jpg" style="width:50%;height:50%;">
 </div>  
 <div style="background-color:blue;color:white;width:50%">
  <p> asdfasgag asdfadga asdsagasdg asdgagag adsgagag asdfasgag asdfadga asdsagasdg asdgagag adsgagag asdfasgag asdfadga asdsagasdg asdgagag adsgagag asdfasgag asdfadga asdsagasdg asdgagag adsgagag asdfasgag asdfadga asdsagasdg asdgagag adsgagag asdfasgag asdfadga asdsagasdg asdgagag adsgagag asdfasgag asdfadga asdsagasdg asdgagag adsgagag asdfasgag asdfadga asdsagasdg asdgagag adsgagag </p>
@@ -10,4 +10,4 @@ Introduction ...
 
 
 
-Lets see 17:37
+Lets see 17:52
