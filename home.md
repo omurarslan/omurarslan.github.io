@@ -20,8 +20,8 @@
 
 <div style="clear:both;padding-top:2em;">
 <h2> Education </h2>
- <ul style="font-size:1em;padding-left:30px;">
-  <li><b>PhD in Electrical Engineering</b>, August 2016, University of Pennsylvania, Philadelphia, PA</li>
+ <ul style="padding-left:30px;">
+  <li><strong>PhD in Electrical Engineering</strong>, August 2016, University of Pennsylvania, Philadelphia, PA</li>
   <li><b>MSc in Electrical Engineering </b>, August 2012, University of Pennsylvania, Philadelphia, PA</li>
   <li><b>MSc in Electrical & Electronics Engineering </b>, July 2009, Bilkent University, Ankara, Turkey</li>
   <li><b>BSc in Electrical & Electronics Engineering</b>, June 2007, Middle East Technical University, Ankara, Turkey</li>
