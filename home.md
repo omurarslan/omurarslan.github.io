@@ -18,7 +18,7 @@
 </div>  
 </div>
 
-<div style="clear:both;padding-top=20mm">
+<div style="clear:both;padding-top:2em;">
 <h2> Education </h2>
  <ul style="font-size:1em;padding-left:30px;">
   <li><b>PhD in Electrical Engineering</b>, August 2016, University of Pennsylvania, Philadelphia, PA</li>
