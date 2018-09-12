@@ -5,9 +5,10 @@
  <a href="mailto:omur.arslan@tuebingen.mpg.de" style="text-decoration:none;"> <i class="fas fa-envelope" style="font-size:1.5em;color:black;"></i> </a>&nbsp;
  <i class="ai ai-researchgate big-icon" style="font-size:1.5em;color:black;"></i>&nbsp;
  <i class="ai ai-orcid big-icon" style="font-size:1.5em;color:black;"></i>&nbsp;
- <i class="ai ai-google-scholar big-icon" style="font-size:1.5em;color:black;"></i>&nbsp;
+ <i class="ai ai-google-scholar-square big-icon" style="font-size:1.5em;color:black;"></i>&nbsp;
  <i class="fab fa-github" style="font-size:1.5em;color:black;"></i>&nbsp;
  <a href="mailto:omur.arslan@tuebingen.mpg.de"><i class="fab fa-linkedin" style="font-size:1.5em;color:black;"></i></a>
+ <i class="ai ai-cv-square big-icon" style="font-size:1.5em;color:black;"></i>&nbsp;
 </div> 
 <div style="width:70%;padding-left:270px;">
 <p style="text-align:justify;"> I am currently a research scientist in the Autonomous Motion Department at the Max Planck Institute for Intelligent Systems (MPI-IS), Tübingen, Germany. I received my Ph.D. degree in electrical and systems engineering from the University of Pennsylvania, Philadelphia, PA, USA, in 2016 under the supervision of Daniel E. Koditschek.
