@@ -2,7 +2,7 @@
 <div style="width:250px;float:left;" align="center">
 <img src="{{ site.url }}/assets/omurarslan.jpg" style="width:250px">
 <br>
- <a href="mailto:omur.arslan@tuebingen.mpg.de"> <i class="fas fa-envelope" style="font-size:1.5em;color:black;"></i> </a>&nbsp;
+ <a href="mailto:omur.arslan@tuebingen.mpg.de" style="text-decoration:none;"> <i class="fas fa-envelope" style="font-size:1.5em;color:black;"></i> </a>&nbsp;
  <i class="ai ai-researchgate big-icon" style="font-size:1.5em;color:black;"></i>&nbsp;
  <i class="ai ai-orcid big-icon" style="font-size:1.5em;color:black;"></i>&nbsp;
  <i class="ai ai-google-scholar big-icon" style="font-size:1.5em;color:black;"></i>&nbsp;
