@@ -4,9 +4,9 @@
 <br>
  <a href="mailto:omur.arslan@tuebingen.mpg.de" style="text-decoration:none;"> <i class="fas fa-envelope" style="font-size:1.5em;color:black;"></i> </a>&nbsp;
  <a href="https://www.researchgate.net/profile/Omur_Arslan" target="_blank" style="text-decoration:none;"><i class="ai ai-researchgate-square big-icon" style="font-size:1.5em;color:black;"></i></a>&nbsp;
- <i class="ai ai-orcid big-icon" style="font-size:1.5em;color:black;"></i>&nbsp;
+ <a href="https://orcid.org/0000-0003-0436-6424" target="_blank" style="text-decoration:none;"><i class="ai ai-orcid big-icon" style="font-size:1.5em;color:black;"></i></a>&nbsp;
  <i class="ai ai-google-scholar-square big-icon" style="font-size:1.5em;color:black;"></i>&nbsp;
- <a href="https://github.com/omurarslan" target="_blank" style="text-decoration:none"><i class="fab fa-github" style="font-size:1.5em;color:black;"></i></a>&nbsp;
+ <a href="https://github.com/omurarslan" target="_blank" style="text-decoration:none;"><i class="fab fa-github" style="font-size:1.5em;color:black;"></i></a>&nbsp;
  <a href="https://www.linkedin.com/in/omurarslan" target="_blank" style="text-decoration:none;"><i class="fab fa-linkedin" style="font-size:1.5em;color:black;"></i></a>
  <i class="ai ai-cv-square big-icon" style="font-size:1.5em;color:black;"></i>&nbsp;
 </div> 
@@ -22,10 +22,10 @@
 <h2> Education </h2>
  <ul style="padding-left:30px;">
   <li><strong>PhD in Electrical Engineering</strong>, August 2016, University of Pennsylvania, Philadelphia, PA</li>
-  <li><b>MSc in Electrical Engineering </b>, August 2012, University of Pennsylvania, Philadelphia, PA</li>
-  <li><b>MSc in Electrical & Electronics Engineering </b>, July 2009, Bilkent University, Ankara, Turkey</li>
-  <li><b>BSc in Electrical & Electronics Engineering</b>, June 2007, Middle East Technical University, Ankara, Turkey</li>
-  <li><b>BSc in Mechatronics</b> (Minor), July 2007, Middle East Technical University, Ankara, Turkey</li>
+  <li><strong>MSc in Electrical Engineering </strong>, August 2012, University of Pennsylvania, Philadelphia, PA</li>
+  <li><strong>MSc in Electrical & Electronics Engineering </strong>, July 2009, Bilkent University, Ankara, Turkey</li>
+  <li><strong>BSc in Electrical & Electronics Engineering</strong>, June 2007, Middle East Technical University, Ankara, Turkey</li>
+  <li><strong>BSc in Mechatronics</strong> (Minor), July 2007, Middle East Technical University, Ankara, Turkey</li>
 </ul>
  </div>
 
