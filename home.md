@@ -1,6 +1,3 @@
----
-layout: mydefault
-title: Home
----
+{% include_relative /index.md %}
 
 Home is included...
