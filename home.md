@@ -10,12 +10,12 @@
  <a href="mailto:omur.arslan@tuebingen.mpg.de"><i class="fab fa-linkedin" style="font-size:1.5em;color:black;"></i></a>
 </div> 
 <div style="width:70%;padding-left:270px;">
-<p style="text-align:justify;"> I am currently a research scientist in the Autonomous Motion Department at the Max Planck Institute for Intelligent Systems (MPI-IS), Tübingen, Germany. I received my Ph.D. degree in electrical and systems engineering from the University of Pennsylvania, Philadelphia, PA, USA, in 2016 and my B.Sc. and M.Sc. degrees in electrical and electronics engineering from the Middle East Technical University, Ankara, Turkey, in 2007 and from Bilkent University, Ankara, in 2009, respectively.
+<p style="text-align:justify;"> I am currently a research scientist in the Autonomous Motion Department at the Max Planck Institute for Intelligent Systems (MPI-IS), Tübingen, Germany. I received my Ph.D. degree in electrical and systems engineering from the University of Pennsylvania, Philadelphia, PA, USA, in 2016 under the supervision of Daniel E. Koditschek.
 </p>
-<p style="text-align:justify;"> My research goal is to integrate learning, sensing, control and geometry for the design of safe feedback motion planning algorithms, especially for robots operating around people. Broadly, my research interests include robotics, motion planning, sensor networks, control theory, dynamical systems, optimization and machine learning.
+<p style="text-align:justify;"> My current research goal is to integrate learning, sensing, control and geometry for the design of safe feedback motion planning algorithms, especially for robots operating around people. Broadly, my research interests include robotics, motion planning, sensor networks, control theory, dynamical systems, optimization and machine learning.
  </p>
  <h2> Education </h2>
- <ul style="padding-left:20px;">
+ <ul style="padding-left:30px;">
   <li>PhD</li>
   <li>MSc</li>
   <li>BSc</li>
