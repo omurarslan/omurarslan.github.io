@@ -1,8 +1,6 @@
 ---
-layout: name
+layout: mydefault
 title: Home
 ---
 
-Introduction...
-
-
+{% include_relative /home%}
