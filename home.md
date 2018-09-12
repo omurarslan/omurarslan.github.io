@@ -1,5 +1,5 @@
 <div>
-<div style="width:250px;float:left;">
+<div style="width:250px;float:left;" align="center">
 <img src="{{ site.url }}/assets/omurarslan.jpg" style="width:250px">
 <br>
  <a href="mailto:omur.arslan@tuebingen.mpg.de"><i class="fas fa-envelope" style="font-size:1.5em;color:black;"></i></a>
