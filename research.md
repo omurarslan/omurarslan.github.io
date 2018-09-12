@@ -3,10 +3,15 @@ layout: mydefault
 title: Research
 ---
 
-## Research 
+## Research Interests
 
-My projects...
+My current research focuses on ...
 
+## Research Projects
+
+* Project 1
+* Project 2
+* Project 3
 
 
 
