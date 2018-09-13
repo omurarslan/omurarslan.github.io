@@ -23,14 +23,14 @@ I began my research in robotics during my master’s program at Bilkent Universi
 ### 1) Clustering-Based Motion Planning and Control
 
 <div>
-  <img src= "{{ site.url}}/assets/arslan_guralnik_koditschek_TRO2016.png" alt="Coordinated Robot Navigation via Hierarchical Clustering" style="height:200px;float:left;margin-top:0.75em;padding-right:1em;">
+  <img src= "{{ site.url}}/assets/arslan_guralnik_koditschek_TRO2016.png" alt="Coordinated Robot Navigation via Hierarchical Clustering" style="height:200px;float:left;margin-top:0em;padding-right:1em;">
   <p style="text-align:justify;"> 
 Inspired by the use of clustering for modelling global organizational structure, we introduced a novel use of hierarchical clustering for coordinated multirobot motion design. Hierarchical clustering offers a natural abstraction for identifying and representing spatially cohesive and segregated robot groups at different resolutions, by relating the continuous space of multirobot configurations to the combinatorial space of trees. Based on this new abstraction and a careful topological characterization of the associated hierarchical structure, we built a provably correct, computationally efficient hierarchical navigation framework for collision-free coordinated motion design towards a designated multirobot configuration via a sequence of hierarchy-preserving local controllers. This result breaks new ground by introducing a topologically nontrivial symbolic abstraction that comes with an explicit mathematical relation in the abstract symbol space and so reduces the complexity of high-level planning.
   </p>
 </div>
 
 <div>
-  <img src= "{{ site.url}}/assets/arslan_koditschek_WAFR2016.png" alt="Sensor-based reactive robot navigation in unknown environments" style="height:200px;float:left;margin-top:0.75em;padding-right:1em;">
+  <img src= "{{ site.url}}/assets/arslan_koditschek_WAFR2016.png" alt="Sensor-based reactive robot navigation in unknown environments" style="height:200px;float:left;margin-top:0em;padding-right:1em;">
   <p style="text-align:justify;"> 
 Building on the use of clustering for locality identification, we introduced a new, robot-centric application of Voronoi diagrams to identify a collision-free convex neighborhood of a robot moving in a cluttered environment. Based on robot-centric Voronoi diagrams, we designed a sensor-based reactive navigation algorithm for exact navigation of a disk-shaped robot in forest-like cluttered environments. More precisely, we showed that the continuous feedback motion toward the metric projection of a desired goal onto the robot’s convex local neighborhood steers almost all robot configurations to the goal position in environments cluttered with round obstacles, while avoiding collisions along the way. To the best of our knowledge, this was the first time a sensor-based reactive motion planner is shown to be provably correct with respect to a general class of environments. The conference version of this work was nominated for the Best Paper Award at the 12th International Workshop on the Algorithmic Foundations of Robotics (WAFR2016).  In addition to its extension to safe multirobot coverage coordination, we also adapted this navigation method to build a sensory steering algorithm for sampling-based motion planning in complex environments with narrow passages.
   </p>
