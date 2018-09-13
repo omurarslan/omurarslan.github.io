@@ -70,10 +70,10 @@ IEEE International Conference on Robotics and Automation, May 2018
 **Bilkent University Scholarship** <br/>
 September 2007 – July 2009 _(Full tuition waiver, full stipend and on-campus lodging)_ 
 
-**The Scientific and Technical Research Council of Turkey (TUBITAK) 2228-National MSc Scholarship** <br/>
+**The Scientific and Technical Research Council of Turkey (TUBITAK)<br/> 2228-National MSc Scholarship** <br/>
 September 2007 - July 2009 _(Partial stipend)_
 
-**The Scientific and Technical Research Council of Turkey (TUBITAK) 2224-International Scientific Meetings Fellowship** <br/>
+**The Scientific and Technical Research Council of Turkey (TUBITAK)<br/> 2224-International Scientific Meetings Fellowship** <br/>
 May 2009
 
 **Graduation Project Committee Award** <br/>
@@ -81,7 +81,7 @@ Department of Electrical and Electronics Engineering, Middle East Technical Univ
 June 2007
 
 **High Honors Graduate** <br/>
-Department of Electrical & Electronics Engineering, Middle East Technical University, Ankara, Turkey <br/>
+Department of Electrical and Electronics Engineering, Middle East Technical University, Ankara, Turkey <br/>
 June 2007 _(5th rank among 351 graduates)_  
 
 **Associate Professor Bülent Kerim Altay Award** <br/>
