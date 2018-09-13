@@ -27,7 +27,7 @@ University of Pennsylvania, Philadelphia, PA, USA <br/>
 _Mentor: Daniel E. Koditschek_ <br/>
 August 2009 - September 2016
 
-**Research and Teachinh Assistant** <br/>
+**Research and Teaching Assistant** <br/>
 Department of Electrical and Electronics Engineering <br/>
 Bilkent University, Ankara, Turkey <br/>
 _Mentors: Ömer Morgül and Uluç Saranlı_ <br/>
@@ -42,6 +42,29 @@ Spring 2017
 **Project Advisor**, ESE 450/451 ESE Senior Design <br/>
 University of Pennsylvania, Philadelphia, PA, USA <br/>
 Fall 2013, Spring 2014
+
+**Teaching Assistant**, ESE 539 Neural Networks and Applications <br/>
+University of Pennsylvania, Philadelphia, PA, USA <br/>
+Spring 2013
+
+**Teaching Assistant**, ESE 500 Linear System Theory <br/>
+University of Pennsylvania, Philadelphia, PA, USA <br/>
+Fall 2010
+
+**Teaching Assistant**, EEE 313 Electronic Circuit Design <br/>
+Bilkent University, Ankara, Turkey <br/>
+Fall 2007, Spring 2009
+
+**Teaching Assistant**, EEE 444/544 Robust Feedback Theory <br/>
+Bilkent University, Ankara, Turkey <br/>
+Fall 2008
+
+**Teaching Assistant**, EEE 351 Engineering Electromagnetics <br/>
+Bilkent University, Ankara, Turkey <br/>
+Spring 2008
+
+### Honors & Awards
+
 
 
 
