@@ -6,7 +6,7 @@ title: Publication
 
 ## Publications
 
-Yo can also check my publications on [Google Scholar](https://scholar.google.de/citations?user=6W1pEn0AAAAJ&hl=en){:target="_blank"} and [Research Gate](https://www.researchgate.net/profile/Omur_Arslan){:target="_blank"}.
+Yo can also check my publications on [Google Scholar](https://scholar.google.de/citations?user=6W1pEn0AAAAJ&hl=en){:target="_blank"} and [ResearchGate](https://www.researchgate.net/profile/Omur_Arslan){:target="_blank"}.
 
 ### Journal Articles
 
@@ -26,18 +26,23 @@ Journal of Optimization Theory and Applications (JOTA), vol. 1(1):1-10, March 20
 Omur Arslan and Uluç Saranlı <br/>
 IEEE Transactions on Robotics (T-RO), vol. 28(3):567-579, June 2012. <br/>
 **[J1] Approximate analytic solutions to nonsymmetric stance trajectories of the passive spring-loaded inverted pendulum with damping** <br/>
-Uluç Saranlı, Omur Arslan, M. Mert Ankaralı, Ömer Morgül <br/> 
+Uluç Saranlı, Omur Arslan, M. Mert Ankaralı and Ömer Morgül <br/> 
 Nonlinear Dynamics, vol. 62(4):729-742, December 2010. 
 
 ### Conference Proceedings
 
-[C14] O. Arslan, H. Min, and D.E. Koditschek, “Voronoi-based coverage control of pan/tilt/zoom camera networks,” IEEE International Conference on Robotics and Automation (ICRA), Brisbane, Australia, May 2018. (Best Paper Award Nominee on Multi-Robot Systems)
-
-[C13] V. Pacelli, O. Arslan, and D.E. Koditschek, “Integration of local geometry and metric information in sampling-based motion planning,” IEEE International Conference on Robotics and Automation (ICRA), Brisbane, Australia, May 2018.
-
-[C12] V. Vasilopoulos, W. Vega-Brown, O. Arslan, N. Roy, and D.E. Koditschek, “Sensor-based reactive symbolic planning in partially known environments,” IEEE International Conference on Robotics and Automation (ICRA), Brisbane, Australia, May 2018.
-
-[C11] V. Vasilopoulos, O. Arslan, A. De, and D.E. Koditschek, “Sensor-based legged robot homing using range-only target localization,” IEEE International Conference on Robotics and Biomimetics (ROBIO), pp. 2630-2637, Macau, December 2017.
+**[C14] Voronoi-based coverage control of pan/tilt/zoom camera networks** <br/> 
+Omur Arslan, Hancheng Min and Daniel E. Koditschek </br>
+IEEE International Conference on Robotics and Automation (ICRA), Brisbane, Australia, May 2018. <br/> *(Best Paper Award Nominee on Multi-Robot Systems)* <br/>
+**[C13] Integration of local geometry and metric information in sampling-based motion planning** <br/>
+Vincent Pacelli, Omur Arslan and Daniel E. Koditschek <br/>
+IEEE International Conference on Robotics and Automation (ICRA), Brisbane, Australia, May 2018. <br/>
+**[C12] Sensor-based reactive symbolic planning in partially known environments** <br/>
+Vasileios Vasilopoulos, William Vega-Brown, Omur Arslan, Nicholas Roy and Daniel E. Koditschek <br/>
+IEEE International Conference on Robotics and Automation (ICRA), Brisbane, Australia, May 2018. <br/>
+**[C11] Sensor-based legged robot homing using range-only target localization** <br/>
+Vasileios Vasilopoulos, Omur Arslan, Avik De, and Daniel E. Koditschek <br/>
+IEEE International Conference on Robotics and Biomimetics (ROBIO), pp. 2630-2637, Macau, December 2017.
 
 [C10] O. Arslan, V. Pacelli, and D.E. Koditschek, “Sensory steering for sampling-based motion planning,” IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pp. 3708- 3715, Vancouver, BC, Canada, September 2017.
 
