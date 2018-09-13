@@ -23,10 +23,11 @@ You can download a pdf copy of my curriculum vitae [here]({{ site.url }}/assets/
  
 <div style="width:70%;padding-left:270px;">
   <h3> Contact Information</h3>
-  <p> Autonomous Motion Department <br\>
-Max Planck Institute for Intelligent Systems <br\>
-Max-Planck-Ring 4 <br\>
-Tübingen, Germany 72076</p>
+  <p> Autonomous Motion Department <br>
+Max Planck Institute for Intelligent Systems <br>
+Max-Planck-Ring 4 <br>
+Tübingen, Germany 72076
+ </p>
 </div>  
 </div>
 
