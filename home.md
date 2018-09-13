@@ -25,12 +25,14 @@
   <li><strong>PhD in Electrical Engineering</strong>, August 2016, University of Pennsylvania, Philadelphia, PA</li>
   <li><strong>MSc in Electrical Engineering </strong>, August 2012, University of Pennsylvania, Philadelphia, PA</li>
   <li><strong>MSc in Electrical & Electronics Engineering </strong>, July 2009, Bilkent University, Ankara, Turkey</li>
-  <li><strong>BSc in Electrical & Electronics Engineering</strong>, June 2007, Middle East Technical University, Ankara, Turkey</li>
   <li><strong>BSc in Mechatronics</strong> (Minor), July 2007, Middle East Technical University, Ankara, Turkey</li>
+  <li><strong>BSc in Electrical & Electronics Engineering</strong>, June 2007, Middle East Technical University, Ankara, Turkey</li>
+  <li><strong>BSc in Electrical & Electronics Engineering</strong>, (Transferred to METU in) September 2004, Hacettepe University, Ankara, Turkey</li>
 </ul>
  </div>
 
 <div align="center" style="padding-top:1em;padding-bottom:0em;margin-bottom:-0.5em;">
+ <img src="{{ site.url }}/assets/hacettepe-logo.png" style="height:50px"> &nbsp; &nbsp;
  <img src="{{ site.url }}/assets/metu-logo.png" style="height:50px"> &nbsp; &nbsp;
  <img src="{{ site.url }}/assets/bilkent-logo.png" style="height:50px"> &nbsp; &nbsp;
  <img src="{{ site.url }}/assets/upenn-logo.png" style="height:50px"> &nbsp; &nbsp;
