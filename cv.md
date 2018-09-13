@@ -61,6 +61,11 @@ Spring 2008
 
 ### Honors & Awards
 
+**Best Paper Award Nominee on Multi-Robot Systems**<br/>
+IEEE International Conference on Robotics and Automation, May 2018
+
+**Best Paper Award Nominee**<br/>
+12th International Workshop on the Algorithmic Foundations of Robotics, December 2016
 
 
 
