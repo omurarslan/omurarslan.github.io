@@ -3,7 +3,6 @@ layout: mydefault
 title: Publication
 ---
 
-<div style="text-align:justified;">
 
 ## Publications
 
@@ -53,4 +52,4 @@ Please also check my publications on [Google Scholar](https://scholar.google.de/
 
 [C1] O. Arslan, U. Saranlı and Ö. Morgül, “An approximate stance map of the spring mass hopper with gravity correction for nonsymmetric locomotions,” IEEE International Conference on Robotics and Automation (ICRA), pp. 2388-2393, Kobe, Japan, May 2009.
 
-</div>
+
