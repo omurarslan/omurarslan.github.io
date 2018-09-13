@@ -67,6 +67,27 @@ IEEE International Conference on Robotics and Automation, May 2018
 **Best Paper Award Nominee**<br/>
 12th International Workshop on the Algorithmic Foundations of Robotics, December 2016
 
+**Bilkent University Scholarship** <br/>
+September 2007 – July 2009 _(Full tuition waiver, full stipend and on-campus lodging)_ 
+
+**The Scientific and Technical Research Council of Turkey (TUBITAK) 2228-National MSc Scholarship** <br/>
+September 2007 - July 2009 _(Partial stipend)_
+
+**Graduation Project Committee Award** <br/>
+Department of Electrical and Electronics Engineering, Middle East Technical University, Ankara, Turkey <br/> 
+June 2007
+
+**High Honors Graduate** </br>
+Department of Electrical & Electronics Engineering, Middle East Technical University, Ankara, Turkey <br/>
+June 2007 _(5th rank among 351 graduates)_  
+
+**Associate Professor Bülent Kerim Altay Award**
+Department of Electrical and Electronics Engineering, Middle East Technical University, Ankara, Turkey <br/>
+Fall 2004, Spring 2004, Spring 2005, Fall 2006 <br/>
+_Awarded for attaining the highest rank in a semester with GPA 4.00/4.00_
+
+
+
 
 
 
