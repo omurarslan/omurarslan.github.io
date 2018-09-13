@@ -6,7 +6,7 @@ title: Publication
 
 ## Publications
 
-Please also check my publications on [Google Scholar](https://scholar.google.de/citations?user=6W1pEn0AAAAJ&hl=en){:target="_blank"} and [Research Gate](https://www.researchgate.net/profile/Omur_Arslan){:target="_blank"}.
+Yo can also check my publications on [Google Scholar](https://scholar.google.de/citations?user=6W1pEn0AAAAJ&hl=en){:target="_blank"} and [Research Gate](https://www.researchgate.net/profile/Omur_Arslan){:target="_blank"}.
 
 ### Journal Articles
 
