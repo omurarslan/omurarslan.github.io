@@ -21,18 +21,19 @@ You can download a pdf copy of my curriculum vitae [here]({{ site.url }}/assets/
  <a href="{{ site.url }}/assets/OmurArslanCV2018.pdf" target="_blank" style="text-decoration:none"><i class="ai ai-cv-square big-icon" style="font-size:1.5em;color:black;"></i></a>
 </div> 
  
-<div style="width:70%;padding-left:270px;">
+<div style="width:70%;padding-left:280px;">
   <h3> Contact Information</h3>
-  <p> Autonomous Motion Department <br>
-Max Planck Institute for Intelligent Systems <br>
-Max-Planck-Ring 4 <br>
-Tübingen, Germany 72076
+  <p> Autonomous Motion Department <br/>
+Max Planck Institute for Intelligent Systems <br/>
+Max-Planck-Ring 4 <br/>
+Tübingen, Germany 72076<br/>
+   Email: <a href="mailto:omur.arslan@tuebingen.mpg.de">omur.arslan@tuebingen.mpg.de</a>   
  </p>
 </div>  
 </div>
 
 <div style="clear:both">
- 
+ <br/>
  </div>
 
 ### Education
