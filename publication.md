@@ -76,41 +76,60 @@ IEEE International Conference on Robotics and Automation (ICRA), pp. 2388-2393, 
 
 ### Book Chapters
 
-[B1] O. Arslan, D. P. Guralnik and D. E. Koditschek, “Navigation of distinct Euclidean particles via hierarchical clustering,” Algorithmic Foundations of Robotics XI, vol. 107:19-36, Springer Tracts in Advanced Robotics, April 2015. 
+**[B1] Navigation of distinct Euclidean particles via hierarchical clustering** <br/>
+Omur Arslan, Dan P. Guralnik and Daniel E. Koditschek <br/>
+Algorithmic Foundations of Robotics XI, vol. 107:19-36, Springer Tracts in Advanced Robotics, April 2015. 
 
 ### Reviewed Workshop Papers
 
-[W2] O. Arslan, D.P. Guralnik and D.E. Koditschek, “Clustering-based robot navigation and control,” Workshop on Emerging Topological Techniques in Robotics at IEEE International Conference on Robotics and Automation (ICRA), Stockholm, Sweden, May 2016
-
-[W1] O. Arslan and D.E. Koditschek, “A recursive, distributed minimum spanning tree algorithm for mobile ad hoc networks,” Workshop on Communication-aware Robotics: New Tools for Multi-Robot Networks, Autonomous Vehicles, and Localization (CarNet Workshop) at Robotics: Science and Systems (RSS), Berkeley, CA, USA, July 2014.
+**[W2] Clustering-based robot navigation and control** <br/>
+Omur Arslan, Dan P. Guralnik and Daniel E. Koditschek <br/>
+Workshop on Emerging Topological Techniques in Robotics at IEEE International Conference on Robotics and Automation (ICRA), Stockholm, Sweden, May 2016 <br/>
+**[W1] A recursive, distributed minimum spanning tree algorithm for mobile ad hoc networks** <br/>
+Omur Arslan and Daniel E. Koditschek, <br/>
+Workshop on Communication-aware Robotics: New Tools for Multi-Robot Networks, Autonomous Vehicles, and Localization (CarNet Workshop) at Robotics: Science and Systems (RSS), Berkeley, CA, USA, July 2014.
 
 ### Preprints 
 
-[P3] O. Arslan and D.E. Koditschek, “Sensor-based reactive navigation in convex sphere worlds,” ESE Technical Report, January 2016.
-
-[P2] O. Arslan and D.E. Koditschek, “Anytime hierarchical clustering,” arXiv:1404.3439 [stat.ML], April 2014.
-
-[P1] O. Arslan, D.P. Guralnik, and D.E. Koditschek, “Navigation of distinct Euclidean particles via hierarchical clustering (Extended Version),” ESE Technical Report, October 2013.
+**[P3] Sensor-based reactive navigation in convex sphere worlds** <br/>
+Omur Arslan and D.E. Koditschek, <br/>
+ESE Technical Report, January 2016. <br/>
+**[P2] Anytime hierarchical clustering** <br/>
+Omur Arslan and Daniel E. Koditschek <br/>
+arXiv:1404.3439 [stat.ML], April 2014. <br/>
+**[P1] Navigation of distinct Euclidean particles via hierarchical clustering (Extended Version)** <br/>
+Omur Arslan, Dan P. Guralnik, and Daniel E. Koditschek <br/>
+ESE Technical Report, October 2013.
 
 ### Seminars, Talks & Poster Presentations
 
-[S5] O. Arslan, “Clustering-based motion planning and control,’’ Robotic Systems and Power Tools, Robert Bosch GmbH Center for Research and Development, Renningen, Germany, July 2018
-
-[S4] O. Arslan, “Navigation in the space of hierarchies,” Max Planck Institute for Intelligent Systems, Tübingen, Germany, February 2018
-
-[S3] O. Arslan, “Motion planning via reference governors: Towards closing the gap between high-level and low-level motion planning,” Middle East Technical University, Ankara, Turkey, July 2017
-
-[S2] O. Arslan, “Motion planning via reference governors: Towards closing the gap between high-level and low-level motion planning,” Autonomous Motion Department, Max Planck Institute for Intelligent Systems, Tübingen, Germany, June 2017
-
-[S1] O. Arslan, “Clustering-based robot navigation and control,” ESE PhD Colloquium, University of Pennsylvania, Philadelphia, USA, February 2016
+**[S5] Clustering-based Motion Planning and Control** <br/>
+Omur Arslan <br/>
+Robotic Systems and Power Tools, Robert Bosch GmbH Center for Research and Development, Renningen, Germany, July 2018 <br/>
+**[S4] Navigation in the Space of Hierarchies** <br/>
+Omur Arslan <br/>
+Max Planck Institute for Intelligent Systems, Tübingen, Germany, February 2018 <br/>
+**[S3] Motion Planning via Reference Governors: Towards Closing the Gap Between High-level and Low-level Motion Planning** <br/>
+Omur Arslan <br/>
+Middle East Technical University, Ankara, Turkey, July 2017 <br/>
+**[S2] Motion Planning via Reference Governors: Towards Closing the Gap Between High-level and Low-level Motion Planning**</br> 
+Omur Arslan <br/>
+Autonomous Motion Department, Max Planck Institute for Intelligent Systems, Tübingen, Germany, June 2017 <br/>
+**[S1] Clustering-based Robot Navigation and Control** <br/> 
+Omur Arslan <br/>
+ESE PhD Colloquium, University of Pennsylvania, Philadelphia, USA, February 2016
 
 ### Theses & Dissertations
 
-[T4] H. Min, “On balancing event and area coverage in mobile sensor networks,” MSc
-Thesis, University of Pennsylvania, PA, May 2018. (Co-supervised with Daniel E. Koditschek)
-
-[T3] V. Pacelli, “Joint exploitation of local metrics and geometry in sampling-based planning,” MSc Thesis, University of Pennsylvania, PA, August 2017. (Co-supervised with Daniel E. Koditschek)
-
-[T2] O. Arslan, “Clustering-based robot navigation and control,” PhD Thesis, University of Pennsylvania, Philadelphia, PA, August 2016.
-
-[T1] O. Arslan, “Model-based methods for the control and planning of running robots,” MSc Thesis, Bilkent University, Ankara, Turkey, July 2009.
+**[T4] On Balancing Event and Area Coverage in Mobile Sensor Networks** <br/>
+Hancheng Min <br/>
+MSc Thesis, University of Pennsylvania, PA, May 2018. (Co-supervised with Daniel E. Koditschek) <br/>
+**[T3] Joint Exploitation of Local Metrics and Geometry in Sampling-based Planning** <br/>
+Vincent Pacelli <br/>
+MSc Thesis, University of Pennsylvania, PA, August 2017. (Co-supervised with Daniel E. Koditschek) <br/>
+**[T2] Clustering-based Robot Navigation and Control**<br/> 
+Omur Arslan <br/>
+PhD Thesis, University of Pennsylvania, Philadelphia, PA, August 2016. <br/>
+**[T1] Model-based Methods for the Control and Planning of Running Robots**<br/>
+Omur Arslan <br/>
+MSc Thesis, Bilkent University, Ankara, Turkey, July 2009.
