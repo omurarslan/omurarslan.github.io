@@ -1,3 +1,9 @@
+---
+layout: mydefault
+title: Contact
+description: Omur Arslan's Contact Information
+---
+
 ## Contact Information
 
 Omur Arslan, PhD <br/>
