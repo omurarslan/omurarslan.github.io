@@ -1,6 +1,7 @@
 ---
 layout: mydefault
 title: Publication
+description: Omur Arslan's Publications
 ---
 
 
