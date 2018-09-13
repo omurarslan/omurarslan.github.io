@@ -51,7 +51,7 @@ Omur Arslan and Daniel E. Koditschek <br/>
 IEEE International Conference on Robotics and Automation (ICRA), pp. 4414-4421, Singapore, May 2017. <br/>
 **[C8] Detecting poisoning attacks on hierarchical malware classification systems** </br>
 Dan P. Guralnik, Bill Moran Ali Pezeshki and Omur Arslan </br>
-Cyber Sensing, SPIE Defense + Security, Anaheim, CA, May 2017. </br>
+Cyber Sensing, SPIE Defense + Security, Anaheim, CA, May 2017. <br/>
 **[C7] Sensor-based reactive navigation in unknown convex sphere worlds**<br/> 
 Omur Arslan and Daniel E. Koditschek <br/>
 The 12th International Workshop on the Algorithmic Foundations of Robotics (WAFR), San Francisco, CA, December 2016. **_(Best Paper Award Nominee)_**<br/>
