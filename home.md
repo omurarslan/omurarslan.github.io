@@ -27,7 +27,7 @@
   <li><strong>MSc in Electrical & Electronics Engineering </strong>, Bilkent University, Ankara, Turkey, July 2009</li>
   <li><strong>BSc in Mechatronics</strong> (Minor), Middle East Technical University, Ankara, Turkey, July 2007</li>
   <li><strong>BSc in Electrical & Electronics Engineering</strong>, Middle East Technical University, Ankara, Turkey, June 2007</li>
-  <li><strong>BSc in Electrical & Electronics Engineering</strong>, Hacettepe University, Ankara, Turkey, September 2002 - August 2004 (Transferred to METU)</li>
+  <li><strong>BSc in Electrical & Electronics Engineering</strong>, Hacettepe University, Ankara, Turkey, Sep. 2002 - Aug. 2004 (Transferred to METU)</li>
 </ul>
  </div>
 
