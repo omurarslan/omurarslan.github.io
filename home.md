@@ -30,7 +30,7 @@
 </ul>
  </div>
 
-<div align="center" style="padding-top:1em;">
+<div align="center" style="padding-top:1em;padding-bottom:0em;margin-bottom:-0.5em;">
  <img src="{{ site.url }}/assets/metu-logo.png" style="height:50px"> &nbsp; &nbsp;
  <img src="{{ site.url }}/assets/bilkent-logo.png" style="height:50px"> &nbsp; &nbsp;
  <img src="{{ site.url }}/assets/upenn-logo.png" style="height:50px"> &nbsp; &nbsp;
