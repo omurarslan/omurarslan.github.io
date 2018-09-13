@@ -77,7 +77,7 @@ September 2007 - July 2009 _(Partial stipend)_
 Department of Electrical and Electronics Engineering, Middle East Technical University, Ankara, Turkey <br/> 
 June 2007
 
-**High Honors Graduate** </br>
+**High Honors Graduate** <br/>
 Department of Electrical & Electronics Engineering, Middle East Technical University, Ankara, Turkey <br/>
 June 2007 _(5th rank among 351 graduates)_  
 
