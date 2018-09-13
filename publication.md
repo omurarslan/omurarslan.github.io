@@ -12,24 +12,19 @@ Yo can also check my publications on [Google Scholar](https://scholar.google.de/
 
 **[J6] Sensor-Based Reactive Navigation in Unknown Convex Sphere Worlds** <br/> 
 Omur Arslan and Daniel E. Koditschek <br/>
-The International Journal of Robotics Research (IJRR), September 2018.
-
+The International Journal of Robotics Research (IJRR), September 2018. <br/>
 **[J5] Discriminative measures for comparison of phylogenetic trees** <br/>
 Omur Arslan, Dan P. Guralnik and Daniel E. Koditschek <br/>
-Discrete Applied Mathematics (DAM), vol. 217(3):405-426, January 2017.
-
+Discrete Applied Mathematics (DAM), vol. 217(3):405-426, January 2017. <br/>
 **[J4] Coordinated robot navigation via hierarchical clustering**<br/>
 Omur Arslan, Dan P. Guralnik and Daniel E. Koditschek <br/>
-IEEE Transactions on Robotics (T-RO), vol. 32(2):352-371, April 2016.
-
+IEEE Transactions on Robotics (T-RO), vol. 32(2):352-371, April 2016. <br/>
 **[J3] On the optimality of Napoleon triangles**
 Omur Arslan and Daniel E. Koditschek <br/>
-Journal of Optimization Theory and Applications (JOTA), vol. 1(1):1-10, March 2016. 
-
+Journal of Optimization Theory and Applications (JOTA), vol. 1(1):1-10, March 2016. <br/> 
 **[J2] Reactive planning and control of planar spring–mass running on rough terrain** <br/>
 Omur Arslan and Uluç Saranlı <br/>
-IEEE Transactions on Robotics (T-RO), vol. 28(3):567-579, June 2012. 
-
+IEEE Transactions on Robotics (T-RO), vol. 28(3):567-579, June 2012. <br/>
 **[J1] Approximate analytic solutions to nonsymmetric stance trajectories of the passive spring-loaded inverted pendulum with damping** <br/>
 Uluç Saranlı, Omur Arslan, M. Mert Ankaralı, Ömer Morgül <br/> 
 Nonlinear Dynamics, vol. 62(4):729-742, December 2010. 
