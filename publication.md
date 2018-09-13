@@ -19,7 +19,7 @@ Discrete Applied Mathematics (DAM), vol. 217(3):405-426, January 2017. <br/>
 **[J4] Coordinated robot navigation via hierarchical clustering**<br/>
 Omur Arslan, Dan P. Guralnik and Daniel E. Koditschek <br/>
 IEEE Transactions on Robotics (T-RO), vol. 32(2):352-371, April 2016. <br/>
-**[J3] On the optimality of Napoleon triangles**
+**[J3] On the optimality of Napoleon triangles** <br/>
 Omur Arslan and Daniel E. Koditschek <br/>
 Journal of Optimization Theory and Applications (JOTA), vol. 1(1):1-10, March 2016. <br/> 
 **[J2] Reactive planning and control of planar spring–mass running on rough terrain** <br/>
