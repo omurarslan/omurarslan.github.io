@@ -25,7 +25,7 @@ Please also check my publications on [Google Scholar](https://scholar.google.de/
 
 [C14] O. Arslan, H. Min, and D.E. Koditschek, “Voronoi-based coverage control of pan/tilt/zoom camera networks,” (in press) IEEE International Conference on Robotics and Automation (ICRA), Brisbane, Australia, May 2018. (Best Paper Award Nominee on Multirobot Systems)
 
-[C13] V. Pacelli, O. Arslan, and D.E. Koditschek, “Integration of local geometry and metric information in sampling-based motion planning,” (in press) IEEE International Conference on Robotics and Automation (ICRA), Brisbane, Australia, May 2018.
+[C13] V. Pacelli, O. Arslan, and D.E. Koditschek, “Integration of local geometry and metric information in sampling-based motion planning,” IEEE International Conference on Robotics and Automation (ICRA), Brisbane, Australia, May 2018.
 
 [C12] V. Vasilopoulos, W. Vega-Brown, O. Arslan, N. Roy, and D.E. Koditschek, “Sensor-based reactive symbolic planning in partially known environments,” IEEE International Conference on Robotics and Automation (ICRA), Brisbane, Australia, May 2018.
 
