@@ -8,7 +8,7 @@
  <a href="https://scholar.google.de/citations?user=6W1pEn0AAAAJ&hl=en" target="_blank" style="text-decoration:none;"><i class="ai ai-google-scholar-square big-icon" style="font-size:1.5em;color:black;"></i></a>&nbsp;
  <a href="https://github.com/omurarslan" target="_blank" style="text-decoration:none;"><i class="fab fa-github" style="font-size:1.5em;color:black;"></i></a>&nbsp;
  <a href="https://www.linkedin.com/in/omurarslan" target="_blank" style="text-decoration:none;"><i class="fab fa-linkedin" style="font-size:1.5em;color:black;"></i></a> &nbsp;
- <i class="ai ai-cv-square big-icon" style="font-size:1.5em;color:black;"></i>&nbsp;
+ <a href="{{ site.url }}/assets/OmurArslanCV2018.pdf" target="_blank" style="text-decoration:none"><i class="ai ai-cv-square big-icon" style="font-size:1.5em;color:black;"></i></a>
 </div> 
  
 <div style="width:70%;padding-left:270px;">
