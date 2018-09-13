@@ -8,6 +8,25 @@ description: Omur Arslan's CV
 
 You can download a pdf copy of my curriculum vitae [here]({{ site.url }}/assets/OmurArslanCV2018.pdf){:target="_blank"}. Please also check my professional profile on [LinkedIn](https://www.linkedin.com/in/omurarslan){:target="_blank"}.
 
+### Education
+
+**PhD in Electrical and Systems Engineering** <br/>
+University of Pennsylvania, Philadelphia, PA, USA, August 2017 <br/>
+Thesis: Clustering-Based Robot Navigation and Control <br/>
+Advisor: Daniel E. Koditschek <br/>
+
+**MSc in Electrical Engineering** <br/>
+University of Pennsylvania, Philadelphia, PA, USA, August 2012 <br/>
+Advisor: Daniel E. Koditschek <br/>
+
+**MSc in Electrical and Electronics Engineering** <br/>
+Bilkent University, Ankara, Turkey, June 2009 <br/>
+_Thesis:_ Model-Based Methods for the Control and Planning of Running Robots <br/>
+_Advisors:_ Ömer Morgül and Uluç Saranlı
+
+
+
+
 ### Academic Appointments
 
 **Postdoctoral Researcher** <br/>
