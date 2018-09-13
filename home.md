@@ -31,8 +31,8 @@
  </div>
 
 <div align="center" style="padding-top:1em;">
- <img src="{{ site.url }}/assets/metu-logo.png" style="height:50px"> &nbsp;
- <img src="{{ site.url }}/assets/bilkent-logo.png" style="height:50px"> &nbsp;
- <img src="{{ site.url }}/assets/upenn-logo.png" style="height:50px"> &nbsp;
- <img src="{{ site.url }}/assets/mpi-logo.jpg" style="height:50px"> &nbsp;
+ <img src="{{ site.url }}/assets/metu-logo.png" style="height:50px"> &nbsp; &nbsp;
+ <img src="{{ site.url }}/assets/bilkent-logo.png" style="height:50px"> &nbsp; &nbsp;
+ <img src="{{ site.url }}/assets/upenn-logo.png" style="height:50px"> &nbsp; &nbsp;
+ <img src="{{ site.url }}/assets/mpi-logo.png" style="height:50px"> &nbsp; &nbsp;
  </div>
