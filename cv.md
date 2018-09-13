@@ -73,6 +73,9 @@ September 2007 – July 2009 _(Full tuition waiver, full stipend and on-campus l
 **The Scientific and Technical Research Council of Turkey (TUBITAK) 2228-National MSc Scholarship** <br/>
 September 2007 - July 2009 _(Partial stipend)_
 
+**The Scientific and Technical Research Council of Turkey (TUBITAK) 2224-International Scientific Meetings Fellowship** <br/>
+May 2009
+
 **Graduation Project Committee Award** <br/>
 Department of Electrical and Electronics Engineering, Middle East Technical University, Ankara, Turkey <br/> 
 June 2007
