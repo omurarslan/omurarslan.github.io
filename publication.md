@@ -7,6 +7,8 @@ title: Publication
 
 ### Journal Articles
 
+Please also check my publications on [Google Scholar](https://scholar.google.de/citations?user=6W1pEn0AAAAJ&hl=en).
+
 [J6] O. Arslan and D.E. Koditschek, “Sensor-Based Reactive Navigation in Unknown Convex Sphere Worlds,’’ The International Journal of Robotics Research (IJRR), September 2018.
 
 [J5] O. Arslan, D.P. Guralnik and D.E. Koditschek, “Discriminative measures for comparison of phylogenetic trees,” Discrete Applied Mathematics (DAM), vol. 217(3):405-426, January 2017.
