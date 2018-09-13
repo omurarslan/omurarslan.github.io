@@ -31,11 +31,12 @@ In robotics, it is often practically and theoretically convenient to design moti
 
 Some of the current research projects I work on are:
 
-1) Statistical Learning for Motion Planning and Control
-
-2) Statistical Coverage Control of Mobile Sensor Networks
-
-3) Safe Navigation Control of a Quadrotor UAV via Reference Governors
+<ol>
+  <li> Statistical Learning for Motion Planning and Control </li>
+  <li> Statistical Coverage Control of Mobile Sensor Networks </li>
+  <li> Safe Exploration and Navigation using Sparse Visual Point Clouds </li>
+  <li> Safe Navigation Control of a Quadrotor UAV via Reference Governors </li>
+</ol>    
 
 Please stay tuned for further updates.
 
