@@ -157,12 +157,12 @@ _(Awarded for attaining the highest rank in a semester with GPA 4.00/4.00)_
 
 #### Society Membership
 
- - IEEE, Member, 2017- present 
- - IEEE, Robotics and Automation Society, 2008 - present
- - IEEE, Control Systems Society, 2016 – present
- - IEEE, Student Member, 2008 – 2017
+ * IEEE, Member, 2017- present 
+ * IEEE, Robotics and Automation Society, 2008 - present
+ * IEEE, Control Systems Society, 2016 – present
+ * IEEE, Student Member, 2008 – 2017
 
-**Government Activities**  
+#### Government Activities  
  * Panelist, NSF Smart & Autonomous Systems, 2017
 
 
