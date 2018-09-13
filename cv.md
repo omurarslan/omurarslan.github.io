@@ -10,12 +10,12 @@ You can download a pdf copy of my curriculum vitae [here]({{ site.url }}/assets/
 
 ### Academic Appointments
 
-** Postdoctoral Researcher**<br\>
+**Postdoctoral Researcher**<br\>
 Autonomous Motion Deparment <br\>
 Max Plank Institute for Intelligent Systems, Tübingen, Germany<br/>
 October 2017 - present
 
-** Postdoctoral Researcher**<br\>
+**Postdoctoral Researcher**<br\>
 Department of Electrical and Systems Engineering<br/>
 University of Pennsylvania, Philadelphia, PA, US <br/>
 _Mentor: Daniel E. Koditschek_ <br/>
