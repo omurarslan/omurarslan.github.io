@@ -7,7 +7,7 @@ title: Publication
 
 ### Journal Articles
 
-Please also check my publications on [Google Scholar](https://scholar.google.de/citations?user=6W1pEn0AAAAJ&hl=en).
+Please also check my publications on [Google Scholar](https://scholar.google.de/citations?user=6W1pEn0AAAAJ&hl=en){:target="_blank"}.
 
 [J6] O. Arslan and D.E. Koditschek, “Sensor-Based Reactive Navigation in Unknown Convex Sphere Worlds,’’ The International Journal of Robotics Research (IJRR), September 2018.
 
