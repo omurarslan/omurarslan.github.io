@@ -30,7 +30,7 @@ August 2009 - September 2016
 **Research and Teachinh Assistant** <br/>
 Department of Electrical and Electronics Engineering <br/>
 Bilkent University, Ankara, Turkey <br/>
-_Mentors: Ömer Morgül and Uluç Saranlı_ </br/>
+_Mentors: Ömer Morgül and Uluç Saranlı_ </r/>
 September 2007 - July 2009
 
 ### Teaching Experience
