@@ -13,18 +13,25 @@ You can download a pdf copy of my curriculum vitae [here]({{ site.url }}/assets/
 **PhD in Electrical and Systems Engineering** <br/>
 University of Pennsylvania, Philadelphia, PA, USA, August 2017 <br/>
 Thesis: Clustering-Based Robot Navigation and Control <br/>
-Advisor: Daniel E. Koditschek <br/>
+_Advisor:_ Daniel E. Koditschek <br/>
 
 **MSc in Electrical Engineering** <br/>
 University of Pennsylvania, Philadelphia, PA, USA, August 2012 <br/>
-Advisor: Daniel E. Koditschek <br/>
+_Advisor:_ Daniel E. Koditschek <br/>
 
 **MSc in Electrical and Electronics Engineering** <br/>
 Bilkent University, Ankara, Turkey, June 2009 <br/>
 _Thesis:_ Model-Based Methods for the Control and Planning of Running Robots <br/>
 _Advisors:_ Ömer Morgül and Uluç Saranlı
 
+**BSc in Electrical and Electronics Engineering** <br/>
+Middle East Technical University, Ankara, Turkey, June 2007
 
+**BSc in Mechatronics** (Minor) <br/>
+Middle East Technical University, Ankara, Turkey, July 2007
+
+**BSc in Electrical and Electronics Engineering** <br/>
+Hacettepe University, Ankara, Turkey, September 2002 - August 2004 (Transferred to METU)
 
 
 ### Academic Appointments
