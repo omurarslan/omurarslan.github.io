@@ -31,7 +31,7 @@ Middle East Technical University, Ankara, Turkey, July 2007
 Middle East Technical University, Ankara, Turkey, June 2007
 
 **BSc in Electrical and Electronics Engineering** <br/>
-Hacettepe University, Ankara, Turkey, September 2002 - August 2004 (Transferred to METU)
+Hacettepe University, Ankara, Turkey, Sep. 2002 - Aug. 2004 (Transferred to METU)
 
 
 ### Academic Appointments
