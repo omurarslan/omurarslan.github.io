@@ -10,7 +10,7 @@ Yo can also check my publications on [Google Scholar](https://scholar.google.de/
 
 ### Journal Articles
 
-[J6] **Sensor-Based Reactive Navigation in Unknown Convex Sphere Worlds** <br/> 
+**[J6] Sensor-Based Reactive Navigation in Unknown Convex Sphere Worlds** <br/> 
 Omur Arslan and Daniel E. Koditschek <br/>
 The International Journal of Robotics Research (IJRR), September 2018.
 
