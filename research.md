@@ -47,7 +47,7 @@ Besides its use as a “magnifying glass” for understanding configuration spac
 </div>  
 
 <div>
-  <img src= "{{ site.url }}/assets/arslan_min_koditschek_ICRA2018.png" alt="Voronoi-based Coverage Control of PTZ Cameras" title="Voronoi-based Coverage Control of PTZ Cameras" style="height:150px;float:right;margin-top:0.5em;padding-left:1em;">
+  <img src= "{{ site.url }}/assets/arslan_min_koditschek_ICRA2018.png" alt="Voronoi-based Coverage Control of PTZ Cameras" title="Voronoi-based Coverage Control of PTZ Cameras" style="height:250px;float:right;margin-top:0.5em;padding-left:1em;">
   <p style="text-align:justify;"> 
 I also worked on coverage control of pan/tilt/zoom (PTZ) camera networks. We recently proposed a novel provably correct reactive coverage control algorithm for PTZ camera networks that continuously (re)configures camera orientations and zoom levels (i.e., angles of view) in order to locally maximize their total coverage quality of a given event distribution over an environment. This construction is based on careful modeling of visual sensing quality that is consistent with the physical nature of cameras. We introduced a new notion of conic Voronoi diagrams, based on our proposed sensing quality measures, to solve the camera network allocation problem: that is, to determine where each camera should focus in its field of view given all the other cameras’ configurations. Accordingly, We designed simple greedy gradient algorithms for both continuous- and discrete-time first-order PTZ camera dynamics that asymptotically converge a locally optimal coverage configuration. This work was nominated for the Best Paper Award on Multi-Robot Systems at the 2018 International Conference on Robotics and Automation (ICRA2018). 
   </p>
