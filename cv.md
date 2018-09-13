@@ -6,7 +6,7 @@ description: Omur Arslan's CV
 
 ## CV
 
-You can download a pdf copy of my curriculum vitae [here]({{ site.url }}/assets/OmurArslanCV2018.pdf){:target="_blank"}. You can also check my professional profile on [LinkedIn](https://www.linkedin.com/in/omurarslan){:target="_blank"}.
+You can download a pdf copy of my curriculum vitae [here]({{ site.url }}/assets/OmurArslanCV2018.pdf){:target="_blank"} and check my professional profile on [LinkedIn](https://www.linkedin.com/in/omurarslan){:target="_blank"}.
 
 <div>
 <div style="width:250px;float:left;" align="center">
