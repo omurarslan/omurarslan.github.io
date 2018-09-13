@@ -31,9 +31,6 @@ In robotics, it is often practically and theoretically convenient to design moti
 
 Some of the current research projects I work on are:
 
-  * Item 1
-  * Item 2
-
 <ul style="margin-left:2em">
   <li> Statistical Learning for Motion Planning and Control </li>
   <li> Statistical Coverage Control of Mobile Sensor Networks </li>
