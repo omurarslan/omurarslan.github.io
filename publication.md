@@ -40,25 +40,25 @@ IEEE International Conference on Robotics and Automation (ICRA), Brisbane, Austr
 **[C12] Sensor-based Reactive Symbolic Planning in Partially Known Environments** <br/>
 Vasileios Vasilopoulos, William Vega-Brown, Omur Arslan, Nicholas Roy and Daniel E. Koditschek <br/>
 IEEE International Conference on Robotics and Automation (ICRA), Brisbane, Australia, May 2018. <br/>
-**[C11] Sensor-based legged robot homing using range-only target localization** <br/>
+**[C11] Sensor-based Legged Robot Homing using Range-only Target Localization** <br/>
 Vasileios Vasilopoulos, Omur Arslan, Avik De and Daniel E. Koditschek <br/>
 IEEE International Conference on Robotics and Biomimetics (ROBIO), pp. 2630-2637, Macau, December 2017. <br/>
-**[C10] Sensory steering for sampling-based motion planning** <br/>
+**[C10] Sensory Steering for Sampling-based Motion Planning** <br/>
 Omur Arslan, Vincent Pacelli and Daniel E. Koditschek <br/>
 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pp. 3708- 3715, Vancouver, BC, Canada, September 2017. <br/>
-**[C9] Smooth extensions of feedback motion planners via reference governors** <br/>
+**[C9] Smooth Extensions of Feedback Motion Planners via Reference Governors** <br/>
 Omur Arslan and Daniel E. Koditschek <br/>
 IEEE International Conference on Robotics and Automation (ICRA), pp. 4414-4421, Singapore, May 2017. <br/>
-**[C8] Detecting poisoning attacks on hierarchical malware classification systems** </br>
+**[C8] Detecting Poisoning Attacks on Hierarchical Malware Classification Systems** </br>
 Dan P. Guralnik, Bill Moran Ali Pezeshki and Omur Arslan </br>
 Cyber Sensing, SPIE Defense + Security, Anaheim, CA, May 2017. <br/>
-**[C7] Sensor-based reactive navigation in unknown convex sphere worlds**<br/> 
+**[C7] Sensor-based Reactive Navigation in Unknown Convex Sphere Worlds**<br/> 
 Omur Arslan and Daniel E. Koditschek <br/>
 The 12th International Workshop on the Algorithmic Foundations of Robotics (WAFR), San Francisco, CA, December 2016. **_(Best Paper Award Nominee)_**<br/>
-**[C6] Exact robot navigation using power diagrams**<br/>
+**[C6] Exact Robot Navigation using Power Diagrams**<br/>
 Omur Arslan and Daniel E. Koditschek <br/>
 IEEE International Conference on Robotics and Automation (ICRA), pp. 1-8, Stockholm, Sweden, May 2016 <br/>
-**[C5] Voronoi-based coverage control of heterogeneous disk-shaped robots** <br/> 
+**[C5] Voronoi-based Coverage Control of Heterogeneous Disk-shaped Robots** <br/> 
 Omur Arslan and Daniel E. Koditschek <br/>
 IEEE International Conference on Robotics and Automation (ICRA), pp. 4259-4266, Stockholm, Sweden, May 2016 <br/>
 **[C4] Hierarchically clustered navigation of distinct Euclidean particles** <br/> 
@@ -109,10 +109,10 @@ Robotic Systems and Power Tools, Robert Bosch GmbH Center for Research and Devel
 **[S4] Navigation in the Space of Hierarchies** <br/>
 Omur Arslan <br/>
 Max Planck Institute for Intelligent Systems, Tübingen, Germany, February 2018 <br/>
-**[S3] Motion Planning via Reference Governors: Towards Closing the Gap Between High-level and Low-level Motion Planning** <br/>
+**[S3] Motion Planning via Reference Governors: Towards closing the gap between high-level and low-level motion planning** <br/>
 Omur Arslan <br/>
 Middle East Technical University, Ankara, Turkey, July 2017 <br/>
-**[S2] Motion Planning via Reference Governors: Towards Closing the Gap Between High-level and Low-level Motion Planning**</br> 
+**[S2] Motion Planning via Reference Governors: Towards closing the gap between high-level and low-level motion planning**<br/> 
 Omur Arslan <br/>
 Autonomous Motion Department, Max Planck Institute for Intelligent Systems, Tübingen, Germany, June 2017 <br/>
 **[S1] Clustering-based Robot Navigation and Control** <br/> 
