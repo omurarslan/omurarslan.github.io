@@ -1,6 +1,7 @@
 ---
 layout: mydefault
 title: CV
+description: Omur Arslan's CV
 ---
 
 ## CV
