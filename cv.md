@@ -22,6 +22,8 @@ You can download a pdf copy of my curriculum vitae [here]({{ site.url }}/assets/
 </div> 
  
 <div style="width:70%;padding-left:280px;">
+  <br/>
+  <br/>
   <h3> Contact Information</h3>
   <p> Autonomous Motion Department <br/>
 Max Planck Institute for Intelligent Systems <br/>
@@ -145,7 +147,22 @@ Fall 2004, Spring 2004, Spring 2005, Fall 2006 <br/>
 _(Awarded for attaining the highest rank in a semester with GPA 4.00/4.00)_
 
 
+### Professional Activities
 
+**Reviewer**
+
+  * Journals:
+  * Conferences:
+
+**Society Membership**
+
+  * IEEE, Member, 2017- present 
+  * IEEE, Robotics and Automation Society, 2008 - present
+  * IEEE, Control Systems Society, 2016 - present
+  * IEEE, Student Member, 2008 – 2017
+
+**Government Activities**  
+  * Panelist, NSF Smart & Autonomous Systems, 2017
 
 
 
