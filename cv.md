@@ -21,9 +21,7 @@ You can download a pdf copy of my curriculum vitae [here]({{ site.url }}/assets/
  <a href="{{ site.url }}/assets/OmurArslanCV2018.pdf" target="_blank" style="text-decoration:none"><i class="ai ai-cv-square big-icon" style="font-size:1.5em;color:black;"></i></a>
 </div> 
  
-<div style="width:70%;padding-left:280px;">
-  <br/>
-  <br/>
+<div style="width:70%;padding-left:280px;vertical-align:bottom;">
   <br/>
   <br/>
   <h3> Contact Information</h3>
