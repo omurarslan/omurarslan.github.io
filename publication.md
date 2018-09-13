@@ -119,7 +119,7 @@ Autonomous Motion Department, Max Planck Institute for Intelligent Systems, Tü
 Omur Arslan <br/>
 ESE PhD Colloquium, University of Pennsylvania, Philadelphia, USA, February 2016
 
-### Theses & Dissertations
+### Theses
 
 **[T4] On Balancing Event and Area Coverage in Mobile Sensor Networks** <br/>
 Hancheng Min <br/>
