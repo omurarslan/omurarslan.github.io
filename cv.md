@@ -153,7 +153,7 @@ _(Awarded for attaining the highest rank in a semester with GPA 4.00/4.00)_
 
 * **Journals:** IEEE Transaction on Robotics (T-RO), IEEE Robotics and Automation Letters (RAL), IEEE Transactions on Automatic Control (TAC), Automatica, Autonomous Robots, Frontiers in Robotics and AI
 
-* **Conferences** IEEE International Conference on Robotics and Automation (ICRA), IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), International Conference on Advanced Robotics (ICAR), IEEE RAS/EMBS International Conference on Biomedical Robotics and Biomechatronics (BioRob), IEEE Conference on Decision and Control (CDC), American Control Conference (ACC)
+* **Conferences:** IEEE International Conference on Robotics and Automation (ICRA), IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), International Conference on Advanced Robotics (ICAR), IEEE RAS/EMBS International Conference on Biomedical Robotics and Biomechatronics (BioRob), IEEE Conference on Decision and Control (CDC), American Control Conference (ACC)
 
 #### Society Membership
 
