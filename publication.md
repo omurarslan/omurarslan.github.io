@@ -10,7 +10,10 @@ Yo can also check my publications on [Google Scholar](https://scholar.google.de/
 
 ### Journal Articles
 
-[J6] O. Arslan and D.E. Koditschek, “Sensor-Based Reactive Navigation in Unknown Convex Sphere Worlds,’’ The International Journal of Robotics Research (IJRR), September 2018. <br style="margin:1.5em 0em;"/>
+[J6] **Sensor-Based Reactive Navigation in Unknown Convex Sphere Worlds** <br/> 
+Omur Arslan and Daniel E. Koditschek <br/>
+The International Journal of Robotics Research (IJRR), September 2018.
+
 [J5] O. Arslan, D.P. Guralnik and D.E. Koditschek, “Discriminative measures for comparison of phylogenetic trees,” Discrete Applied Mathematics (DAM), vol. 217(3):405-426, January 2017.
 
 [J4] O. Arslan, D.P. Guralnik and D.E. Koditschek, “Coordinated robot navigation via hierarchical clustering,” IEEE Transactions on Robotics (T-RO), vol. 32(2):352-371, April 2016.
