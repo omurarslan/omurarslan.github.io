@@ -81,10 +81,10 @@ June 2007
 Department of Electrical & Electronics Engineering, Middle East Technical University, Ankara, Turkey <br/>
 June 2007 _(5th rank among 351 graduates)_  
 
-**Associate Professor Bülent Kerim Altay Award**
+**Associate Professor Bülent Kerim Altay Award** <br/>
 Department of Electrical and Electronics Engineering, Middle East Technical University, Ankara, Turkey <br/>
 Fall 2004, Spring 2004, Spring 2005, Fall 2006 <br/>
-_Awarded for attaining the highest rank in a semester with GPA 4.00/4.00_
+_(Awarded for attaining the highest rank in a semester with GPA 4.00/4.00)_
 
 
 
