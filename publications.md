@@ -46,7 +46,7 @@ Vasileios Vasilopoulos, Omur Arslan, Avik De and Daniel E. Koditschek <br/>
 IEEE International Conference on Robotics and Biomimetics (ROBIO), pp. 2630-2637, Macau, December 2017 [[pdf]](/assets/publications/vasilopoulos_arslan_de_koditschek_ROBIO2017.pdf) [[doi]](https://doi.org/10.1109/ROBIO.2017.8324816) [[video]](https://www.youtube.com/watch?v=kJM0fSxxL9k)<br/>
 **[C10] Sensory Steering for Sampling-based Motion Planning** <br/>
 Omur Arslan, Vincent Pacelli and Daniel E. Koditschek <br/>
-IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pp. 3708- 3715, Vancouver, BC, Canada, September 2017. <br/>
+IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pp. 3708- 3715, Vancouver, BC, Canada, September 2017 [[pdf]](/assets/publications/arslan_pacelli_koditschek_IROS2017.pdf) [[doi]](https://doi.org/10.1109/IROS.2017.8206218) [[video]](https://www.youtube.com/watch?v=XZxOOSiwY2Y) <br/>
 **[C9] Smooth Extensions of Feedback Motion Planners via Reference Governors** <br/>
 Omur Arslan and Daniel E. Koditschek <br/>
 IEEE International Conference on Robotics and Automation (ICRA), pp. 4414-4421, Singapore, May 2017. <br/>
