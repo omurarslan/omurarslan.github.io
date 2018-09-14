@@ -32,35 +32,35 @@ You can also find more about me on [ResearchGate](https://www.researchgate.net/p
 ### Education
 
 * **PhD in Electrical and Systems Engineering** <br/>
-[University of Pennsylvania](https://www.upenn.edu/), Philadelphia, PA, USA, August 2017 <br/>
-Thesis: Clustering-Based Robot Navigation and Control <br/>
+University of Pennsylvania, Philadelphia, PA, USA, August 2017 <br/>
+_Thesis_: Clustering-Based Robot Navigation and Control <br/>
 _Advisor:_ Daniel E. Koditschek <br/>
 * **MSc in Electrical Engineering** <br/>
-[University of Pennsylvania](https://www.upenn.edu/), Philadelphia, PA, USA, August 2012 <br/>
+University of Pennsylvania, Philadelphia, PA, USA, August 2012 <br/>
 _Advisor:_ Daniel E. Koditschek <br/>
 * **MSc in Electrical and Electronics Engineering** <br/>
-[Bilkent University](http://w3.bilkent.edu.tr/bilkent/), Ankara, Turkey, June 2009 <br/>
+Bilkent University, Ankara, Turkey, June 2009 <br/>
 _Thesis:_ Model-Based Methods for the Control and Planning of Running Robots <br/>
 _Advisors:_ Ömer Morgül and Uluç Saranlı
 * **BSc in Mechatronics** (Minor) <br/>
-[Middle East Technical University](http://www.metu.edu.tr/), Ankara, Turkey, July 2007
+Middle East Technical University, Ankara, Turkey, July 2007
 * **BSc in Electrical and Electronics Engineering** <br/>
-[Middle East Technical University](http://www.metu.edu.tr/), Ankara, Turkey, June 2007
+Middle East Technical University, Ankara, Turkey, June 2007
 * **BSc in Electrical and Electronics Engineering** <br/>
-[Hacettepe University](https://www.hacettepe.edu.tr/english/), Ankara, Turkey, September 2002 - August 2004 (Transferred to METU)
+Hacettepe University, Ankara, Turkey, September 2002 - August 2004 (Transferred to METU)
 
 
 ### Academic Appointments
 
 * **Postdoctoral Researcher** <br/>
-[Autonomous Motion](https://am.is.tuebingen.mpg.de/) Deparment, [Max Plank Institute for Intelligent Systems](https://is.mpg.de/), Tübingen, Germany<br/>
+Autonomous Motion Deparment, Max Plank Institute for Intelligent Systems, Tübingen, Germany<br/>
 October 2017 - present
 * **Postdoctoral Researcher** <br/>
-Department of [Electrical and Systems Engineering](https://www.ese.upenn.edu/), [University of Pennsylvania](https://www.upenn.edu/), Philadelphia, PA, USA <br/>
+Department of Electrical and Systems Engineering, University of Pennsylvania, Philadelphia, PA, USA <br/>
 _Mentor: Daniel E. Koditschek_ <br/>
 September 2016 - October 2017
 * **Research Assistant** <br/>
-Department of [Electrical and Systems Engineering](https://www.ese.upenn.edu/), [University of Pennsylvania](https://www.upenn.edu/), Philadelphia, PA, USA <br/>
+Department of Electrical and Systems Engineering, University of Pennsylvania, Philadelphia, PA, USA <br/>
 _Mentor: Daniel E. Koditschek_ <br/>
 August 2009 - September 2016
 * **Research and Teaching Assistant** <br/>
