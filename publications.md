@@ -54,11 +54,11 @@ IEEE International Conference on Robotics and Automation (ICRA), Brisbane, Austr
 Vasileios Vasilopoulos, William Vega-Brown, Omur Arslan, Nicholas Roy and Daniel E. Koditschek <br/>
 IEEE International Conference on Robotics and Automation (ICRA), Brisbane, Australia, May 2018 <br/> 
 [[pdf]](/assets/publications/vasilopoulos_vega-brown_arslan_roy_koditschek_ICRA2018.pdf) [[techreport]](/assets/publications/vasilopoulos_vega-brown_arslan_roy_koditschek_arXiv2018.pdf) [[video]](https://www.youtube.com/watch?v=_07_q-edjmM) <br/>
-<!--
 **[C11] Sensor-based Legged Robot Homing using Range-only Target Localization** <br/>
 Vasileios Vasilopoulos, Omur Arslan, Avik De and Daniel E. Koditschek <br/>
 IEEE International Conference on Robotics and Biomimetics (ROBIO), pp. 2630-2637, Macau, December 2017 <br/>
 [[pdf]](/assets/publications/vasilopoulos_arslan_de_koditschek_ROBIO2017.pdf) [[video]](https://www.youtube.com/watch?v=kJM0fSxxL9k) [[doi]](https://doi.org/10.1109/ROBIO.2017.8324816) <br/>
+<!--
 **[C10] Sensory Steering for Sampling-based Motion Planning** <br/>
 Omur Arslan, Vincent Pacelli and Daniel E. Koditschek <br/>
 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pp. 3708- 3715, Vancouver, BC, Canada, September 2017 <br/>
