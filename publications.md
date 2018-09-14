@@ -94,7 +94,7 @@ Workshop on Communication-aware Robotics: New Tools for Multi-Robot Networks, Au
 **[P5] Technical Report: Sensor-Based Reactive Symbolic Planning in Partially Known Environments** [[pdf]](/assets/publications/vasilopoulos-vega-brown_arslan_roy_koditschek_arXiv2018.pdf) [[arXiv]](https://arxiv.org/abs/1709.05474) [[video]](https://www.youtube.com/watch?v=_07_q-edjmM)<br/>
 Vasileios Vasilopoulos, William Vega-Brown, Omur Arslan, Nicholas Roy and Daniel E. Koditschek <br/>
 arXiv:1709.05474 [cs.RO], Feb 2018<br/>
-**[P4] Sensor-based Reactive Navigation in Convex Sphere Worlds** [[pdf]]((/assets/publications/arslan_koditschek_WAFR2016TechReport.pdf))<br/>
+**[P4] Sensor-based Reactive Navigation in Convex Sphere Worlds** [[pdf]]((/assets/publications/arslan_koditschek_WAFR2016TechReport.pdf)<br/>
 Omur Arslan and D.E. Koditschek <br/>
 ESE Technical Report, January 2016. <br/>
 **[P3] Anytime Hierarchical Clustering** <br/>
