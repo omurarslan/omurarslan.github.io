@@ -1,6 +1,6 @@
 ---
 layout: mydefault
-title: Contact
+title: Omur Arslan | Contact
 description: Omur Arslan's Contact Information
 ---
 
