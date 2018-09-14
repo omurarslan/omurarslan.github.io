@@ -72,7 +72,7 @@ Cyber Sensing, SPIE Defense + Security, Anaheim, CA, May 2017 <br/>
 [[pdf]](/assets/publications/guralnik_moran_pezeshki_arslan_SPIE2017.pdf) [[doi]](http://dx.doi.org/doi:10.1117/12.2266556) <br/>
 **[C7] Sensor-based Reactive Navigation in Unknown Convex Sphere Worlds**<br/> 
 Omur Arslan and Daniel E. Koditschek <br/>
-The 12th International Workshop on the Algorithmic Foundations of Robotics (WAFR), San Francisco, CA, December 2016. **_(Best Paper Award Nominee)_** <br/>
+The 12th International Workshop on the Algorithmic Foundations of Robotics (WAFR), San Francisco, CA, December 2016. <span style="color:darkblue;">**_(Best Paper Award Nominee)_**</span> <br/>
 [[pdf]](/assets/publications/arslan_koditschek_WAFR2016.pdf) [[techreport]](/assets/publications/arslan_koditschek_WAFR2016TechReport.pdf) [[video]](https://www.youtube.com/watch?v=sRGzkUGrJnU)<br/>
 **[C6] Exact Robot Navigation using Power Diagrams**<br/>
 Omur Arslan and Daniel E. Koditschek <br/>
