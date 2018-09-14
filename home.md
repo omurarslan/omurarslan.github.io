@@ -1,5 +1,7 @@
 <div>
-<div style="width:250px;float:left;" align="center">
+<div style="float:left;"> 
+<!-- 
+<div style="width:250px;" align="center">
 <img src="{{ site.url }}/assets/omurarslan.jpg" alt="Omur Arslan, PhD - Robotics Researcher" title="Omur Arslan, PhD - Robotics Researcher" style="width:250px">
 <br>
  <a href="mailto:omur.arslan@tuebingen.mpg.de" style="text-decoration:none;"> <i class="fas fa-envelope" style="font-size:1.5em;color:black;"></i> </a>&nbsp;
@@ -10,6 +12,9 @@
  <a href="https://www.linkedin.com/in/omurarslan" target="_blank" style="text-decoration:none;"><i class="fab fa-linkedin" style="font-size:1.5em;color:black;"></i></a> &nbsp;
  <a href="{{ site.url }}/assets/OmurArslanCV2018.pdf" target="_blank" style="text-decoration:none"><i class="ai ai-cv-square big-icon" style="font-size:1.5em;color:black;"></i></a>
 </div> 
+-->
+ {% include profile.photo.md %}
+ </div>
  
 <div style="width:70%;padding-left:270px;">
 <p style="text-align:justify;"> I am currently a research scientist in the <a href="https://am.is.tuebingen.mpg.de/">Autonomous Motion</a> Department at the <a href="https://is.mpg.de/">Max Planck Institute for Intelligent Systems</a>, Tübingen, Germany. I received my PhD degree from the Department of <a href="https://www.ese.upenn.edu/">Electrical and Systems Engineering</a> at the <a href="https://www.upenn.edu/">University of Pennsylvania</a> in 2016 under the supervision of <a href="https://kodlab.seas.upenn.edu/">Daniel E. Koditschek</a>.
