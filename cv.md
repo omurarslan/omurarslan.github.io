@@ -31,26 +31,6 @@ You can also find more about me on [ResearchGate](https://www.researchgate.net/p
 
 ### Education
 
-* **PhD in Electrical and Systems Engineering** <br/>
-<a href="https://www.upenn.edu/">University of Pennsylvania</a>, Philadelphia, PA, USA, August 2017 <br/>
-Thesis: Clustering-Based Robot Navigation and Control <br/>
-_Advisor:_ Daniel E. Koditschek <br/>
-* **MSc in Electrical Engineering** <br/>
-<a href="https://www.upenn.edu/">University of Pennsylvania</a>, Philadelphia, PA, USA, August 2012 <br/>
-_Advisor:_ Daniel E. Koditschek <br/>
-* **MSc in Electrical and Electronics Engineering** <br/>
-<a href="http://w3.bilkent.edu.tr/bilkent/">Bilkent University</a>, Ankara, Turkey, June 2009 <br/>
-_Thesis:_ Model-Based Methods for the Control and Planning of Running Robots <br/>
-_Advisors:_ Ömer Morgül and Uluç Saranlı
-* **BSc in Mechatronics** (Minor) <br/>
-<a href="http://www.metu.edu.tr/">Middle East Technical University</a>, Ankara, Turkey, July 2007
-* **BSc in Electrical and Electronics Engineering** <br/>
-<a href="http://www.metu.edu.tr/">Middle East Technical University</a>, Ankara, Turkey, June 2007
-* **BSc in Electrical and Electronics Engineering** <br/>
-<a href="https://www.hacettepe.edu.tr/english/">Hacettepe University</a>, Ankara, Turkey, September 2002 - August 2004 (Transferred to METU)
-
-### Education
-
 **PhD in Electrical and Systems Engineering** <br/>
 <a href="https://www.upenn.edu/">University of Pennsylvania</a>, Philadelphia, PA, USA, August 2017 <br/>
 Thesis: Clustering-Based Robot Navigation and Control <br/>
