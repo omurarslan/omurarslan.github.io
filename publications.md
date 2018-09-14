@@ -88,7 +88,7 @@ Algorithmic Foundations of Robotics XI, vol. 107:19-36, Springer Tracts in Advan
 **[W2] Clustering-based Robot Navigation and Control** <br/>
 Omur Arslan, Dan P. Guralnik and Daniel E. Koditschek <br/>
 Workshop on Emerging Topological Techniques in Robotics at IEEE International Conference on Robotics and Automation (ICRA), Stockholm, Sweden, May 2016 <br/>
-[[pdf]](/assets/publications/rslan_guralnik_koditschek_ICRA2016Workshop.pdf) [[poster]](/assets/publications/arslan_guralnik_koditschek_ICRA2016WorkshopPoster.pdf) <br/>
+[[pdf]](/assets/publications/arslan_guralnik_koditschek_ICRA2016Workshop.pdf) [[poster]](/assets/publications/arslan_guralnik_koditschek_ICRA2016WorkshopPoster.pdf) <br/>
 **[W1] A Recursive, Distributed Minimum Spanning Tree Algorithm for Mobile Ad Hoc Networks** <br/>
 Omur Arslan and Daniel E. Koditschek <br/>
 Workshop on Communication-aware Robotics: New Tools for Multi-Robot Networks, Autonomous Vehicles, and Localization (CarNet Workshop) at Robotics: Science and Systems (RSS), Berkeley, CA, USA, July 2014 <br/>
