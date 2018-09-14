@@ -6,8 +6,8 @@ description: Omur Arslan's CV
 
 ## CV
 
-You can download a pdf copy of my curriculum vitae [here]({{ site.url }}/assets/OmurArslanCV2018.pdf){:target="_blank"}. <br/> 
-You can also find more about me on [ResearchGate](https://www.researchgate.net/profile/Omur_Arslan){:target="_blank"}, [ORCID](https://orcid.org/0000-0003-0436-6424){:target="_blank"} and [LinkedIn](https://www.linkedin.com/in/omurarslan){:target="_blank"}.
+You can download a pdf copy of my curriculum vitae [here](/assets/OmurArslanCV2018.pdf). <br/> 
+You can also find more about me on [ResearchGate](https://www.researchgate.net/profile/Omur_Arslan), [ORCID](https://orcid.org/0000-0003-0436-6424) and [LinkedIn](https://www.linkedin.com/in/omurarslan).
 
 <div>
 <div style="float:left"> 
@@ -32,35 +32,35 @@ You can also find more about me on [ResearchGate](https://www.researchgate.net/p
 ### Education
 
 * **PhD in Electrical and Systems Engineering** <br/>
-<a href="https://www.upenn.edu/">University of Pennsylvania</a>, Philadelphia, PA, USA, August 2017 <br/>
+[University of Pennsylvania](https://www.upenn.edu/), Philadelphia, PA, USA, August 2017 <br/>
 Thesis: Clustering-Based Robot Navigation and Control <br/>
 _Advisor:_ Daniel E. Koditschek <br/>
 * **MSc in Electrical Engineering** <br/>
-<a href="https://www.upenn.edu/">University of Pennsylvania</a>, Philadelphia, PA, USA, August 2012 <br/>
+[University of Pennsylvania](https://www.upenn.edu/), Philadelphia, PA, USA, August 2012 <br/>
 _Advisor:_ Daniel E. Koditschek <br/>
 * **MSc in Electrical and Electronics Engineering** <br/>
-<a href="http://w3.bilkent.edu.tr/bilkent/">Bilkent University</a>, Ankara, Turkey, June 2009 <br/>
+[Bilkent University](http://w3.bilkent.edu.tr/bilkent/), Ankara, Turkey, June 2009 <br/>
 _Thesis:_ Model-Based Methods for the Control and Planning of Running Robots <br/>
 _Advisors:_ Ömer Morgül and Uluç Saranlı
 * **BSc in Mechatronics** (Minor) <br/>
-<a href="http://www.metu.edu.tr/">Middle East Technical University</a>, Ankara, Turkey, July 2007
+[Middle East Technical University](http://www.metu.edu.tr/), Ankara, Turkey, July 2007
 * **BSc in Electrical and Electronics Engineering** <br/>
-<a href="http://www.metu.edu.tr/">Middle East Technical University</a>, Ankara, Turkey, June 2007
+[Middle East Technical University](http://www.metu.edu.tr/), Ankara, Turkey, June 2007
 * **BSc in Electrical and Electronics Engineering** <br/>
-<a href="https://www.hacettepe.edu.tr/english/">Hacettepe University</a>, Ankara, Turkey, September 2002 - August 2004 (Transferred to METU)
+[Hacettepe University](https://www.hacettepe.edu.tr/english/), Ankara, Turkey, September 2002 - August 2004 (Transferred to METU)
 
 
 ### Academic Appointments
 
 * **Postdoctoral Researcher** <br/>
-Autonomous Motion Deparment, Max Plank Institute for Intelligent Systems, Tübingen, Germany<br/>
+[Autonomous Motion](https://am.is.tuebingen.mpg.de/) Deparment, [Max Plank Institute for Intelligent Systems](https://is.mpg.de/), Tübingen, Germany<br/>
 October 2017 - present
 * **Postdoctoral Researcher** <br/>
-Department of Electrical and Systems Engineering, University of Pennsylvania, Philadelphia, PA, USA <br/>
+Department of [Electrical and Systems Engineering](https://www.ese.upenn.edu/), [University of Pennsylvania](https://www.upenn.edu/), Philadelphia, PA, USA <br/>
 _Mentor: Daniel E. Koditschek_ <br/>
 September 2016 - October 2017
 * **Research Assistant** <br/>
-Department of Electrical and Systems Engineering, University of Pennsylvania, Philadelphia, PA, USA <br/>
+Department of [Electrical and Systems Engineering](https://www.ese.upenn.edu/), [University of Pennsylvania](https://www.upenn.edu/), Philadelphia, PA, USA <br/>
 _Mentor: Daniel E. Koditschek_ <br/>
 August 2009 - September 2016
 * **Research and Teaching Assistant** <br/>
