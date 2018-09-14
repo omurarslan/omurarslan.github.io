@@ -102,7 +102,7 @@ arXiv:1404.3439 [stat.ML], April 2014. <br/>
 Omur Arslan, Dan P. Guralnik and Daniel E. Koditschek <br/>
 ESE Technical Report, October 2013.
 **[P1] Discriminative Measures for Comparison of Phylogenetic Trees (A Dynamical System Perspective)** [[pdf]](/assests/publications/arslan_guralnik_koditschek_arXiv2013.pdf) [[arXiv]](https://arxiv.org/abs/1310.5202v1)<br/>
-Omur Arslan, Dan P. Guralnik and Daniel E. Koditschek </br>
+Omur Arslan, Dan P. Guralnik and Daniel E. Koditschek <br/>
  arXiv:1310.5202v1 [q-bio.PE], October 2013
 
 ### Theses
