@@ -4,7 +4,9 @@ title: Omur Arslan | Publications
 description: Omur Arslan's Publications
 ---
 
-> You can check my publications on [Google Scholar](https://scholar.google.de/citations?user=6W1pEn0AAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Omur_Arslan).
+```
+You can check my publications on [Google Scholar](https://scholar.google.de/citations?user=6W1pEn0AAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Omur_Arslan).
+```
 
 ## Publications
 [Journal Articles](#journal-articles) | [Conference Proceedings](#conference-proceedings) | [Book Chapters](#book-chapters) | [Workshop Papers](#reviewed-workshop-papers) | [Preprints](#preprints--technical-reports) | [Theses](/publications#theses) | [Talks](#seminars-talks--poster-presentations)
