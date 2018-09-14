@@ -29,7 +29,7 @@ You can also find more about me on [ResearchGate](https://www.researchgate.net/p
  <br/>
  </div>
 
-### Education
+### Education2
 
 * Item 1
 * Item 2
