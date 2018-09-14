@@ -91,23 +91,27 @@ Workshop on Emerging Topological Techniques in Robotics at IEEE International Co
 [[pdf]](/assets/publications/rslan_guralnik_koditschek_ICRA2016Workshop.pdf) [[poster]](/assets/publications/arslan_guralnik_koditschek_ICRA2016WorkshopPoster.pdf) <br/>
 **[W1] A Recursive, Distributed Minimum Spanning Tree Algorithm for Mobile Ad Hoc Networks** <br/>
 Omur Arslan and Daniel E. Koditschek <br/>
-Workshop on Communication-aware Robotics: New Tools for Multi-Robot Networks, Autonomous Vehicles, and Localization (CarNet Workshop) at Robotics: Science and Systems (RSS), Berkeley, CA, USA, July 2014.
+Workshop on Communication-aware Robotics: New Tools for Multi-Robot Networks, Autonomous Vehicles, and Localization (CarNet Workshop) at Robotics: Science and Systems (RSS), Berkeley, CA, USA, July 2014 <br/>
+[[pdf]](/assets/publications/arslan_koditschek_RSS2014Workshop.pdf) [[poster]](/assets/publications/arslan_koditschek_RSS2014WorkshopPoster.pdf)
 
 ### Preprints & Technical Reports
 
 **[P6] Technical Report: Sensor-Based Reactive Symbolic Planning in Partially Known Environments**<br/>
 Vasileios Vasilopoulos, William Vega-Brown, Omur Arslan, Nicholas Roy and Daniel E. Koditschek <br/>
-arXiv:1709.05474 [cs.RO], Feb 2018. [[pdf]](/assets/publications/vasilopoulos_vega-brown_arslan_roy_koditschek_arXiv2018.pdf) [[arXiv]](https://arxiv.org/abs/1709.05474) [[video]](https://www.youtube.com/watch?v=_07_q-edjmM)<br/>
+arXiv:1709.05474 [cs.RO], Feb 2018 <br/>
+[[pdf]](/assets/publications/vasilopoulos_vega-brown_arslan_roy_koditschek_arXiv2018.pdf) [[arXiv]](https://arxiv.org/abs/1709.05474) [[video]](https://www.youtube.com/watch?v=_07_q-edjmM)<br/>
 **[P5] Sensor-based Reactive Navigation in Convex Sphere Worlds**<br/>
 Omur Arslan and D.E. Koditschek <br/>
-ESE Technical Report, January 2016. [[pdf]](/assets/publications/arslan_koditschek_WAFR2016TechReport.pdf) <br/>
+ESE Technical Report, January 2016 <br/>
+[[pdf]](/assets/publications/arslan_koditschek_WAFR2016TechReport.pdf) <br/>
 **[P4] Voronoi-based Coverage Control of Heterogeneous Disk-shaped Robots(Extended Version)**<br/>
 Omur Arslan and Daniel E. Koditschek <br/>
-arXiv:1509.03842 [cs.RO] <br/>
+arXiv:1509.03842 [cs.RO], September 2015 <br/>
 [[pdf]](/assets/publications/arslan_koditschek_arXiv2015.pdf) [[arXiv]](https://arxiv.org/abs/1509.03842) <br/>
 **[P3] Anytime Hierarchical Clustering** <br/>
 Omur Arslan and Daniel E. Koditschek <br/>
 arXiv:1404.3439 [stat.ML], April 2014 <br/>
+[[pdf]](/assets/publications/arslan_koditschek_arXiv2014.pdf) [[arXiv]](https://arxiv.org/abs/1404.3439)<br/>
 **[P2] Navigation of Distinct Euclidean Particles via Hierarchical Clustering (Extended Version)** <br/>
 Omur Arslan, Dan P. Guralnik and Daniel E. Koditschek <br/>
 ESE Technical Report, October 2013 <br/>
