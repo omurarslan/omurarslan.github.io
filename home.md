@@ -12,6 +12,7 @@
 </div> 
  
 <div style="width:70%;padding-left:270px;">
+<br/> 
 <p style="text-align:justify;"> I am currently a research scientist in the Autonomous Motion Department at the Max Planck Institute for Intelligent Systems, Tübingen, Germany. I received my PhD degree from the Department of Electrical and Systems Engineering at the University of Pennsylvania in 2016 under the supervision of Daniel E. Koditschek.
 </p>
 <p style="text-align:justify;"> My current research focuses on the algorithmic foundations of robotics. My research goal is to integrate learning, sensing, control and geometry for the design of safe feedback motion planning algorithms, especially for robots operating around people. Broadly, my research interests include robotics, motion planning, sensor networks, control theory, dynamical systems, optimization, machine learning and machine perception.
