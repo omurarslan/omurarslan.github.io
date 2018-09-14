@@ -61,8 +61,8 @@ IEEE International Conference on Robotics and Biomimetics (ROBIO), pp. 2630-2637
 **[C10] Sensory Steering for Sampling-based Motion Planning** <br/>
 Omur Arslan, Vincent Pacelli and Daniel E. Koditschek <br/>
 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pp. 3708- 3715, Vancouver, BC, Canada, September 2017 <br/>
-<!--
-[[pdf]](/assets/publications/arslan_pacelli_koditschek_IROS2017.pdf) [[video]](https://www.youtube.com/watch?v=XZxOOSiwY2Y) [[doi]](https://doi.org/10.1109/IROS.2017.8206218) <br/>
+[[pdf]](/assets/publications/arslan_pacelli_koditschek_IROS2017.pdf) <br/>
+<!--[[video]](https://www.youtube.com/watch?v=XZxOOSiwY2Y) [[doi]](https://doi.org/10.1109/IROS.2017.8206218) <br/>
 -->
 **[C9] Smooth Extensions of Feedback Motion Planners via Reference Governors** <br/>
 Omur Arslan and Daniel E. Koditschek <br/>
