@@ -23,7 +23,7 @@ IEEE Transactions on Robotics (T-RO), vol. 32(2):352-371, April 2016. <br/>
 **[J3] On the Optimality of Napoleon Triangles** [[pdf]](/assets/publications/arslan_koditschek_JOTA2016.pdf) [[doi]](http://dx.doi.org/10.1007/s10957-016-0911-4) <br/>
 Omur Arslan and Daniel E. Koditschek <br/>
 Journal of Optimization Theory and Applications (JOTA), vol. 1(1):1-10, March 2016. <br/> 
-**[J2] Reactive Planning and Control of Planar Spring–mass Running on Rough Terrain** <br/>
+**[J2] Reactive Planning and Control of Planar Spring–mass Running on Rough Terrain** [[pdf]](/assets/publications/arslan_saranli_TRO2012.pdf) [[doi]](https://doi.org/10.1109/TRO.2011.2178134) <br/>
 Omur Arslan and Uluç Saranlı <br/>
 IEEE Transactions on Robotics (T-RO), vol. 28(3):567-579, June 2012. <br/>
 **[J1] Approximate Analytic Solutions to Nonsymmetric Stance Trajectories of the Passive Spring-loaded Inverted Pendulum with Damping** <br/>
