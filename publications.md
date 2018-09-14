@@ -26,7 +26,7 @@ Journal of Optimization Theory and Applications (JOTA), vol. 1(1):1-10, March 20
 **[J2] Reactive Planning and Control of Planar Spring–mass Running on Rough Terrain** [[pdf]](/assets/publications/arslan_saranli_TRO2012.pdf) [[doi]](https://doi.org/10.1109/TRO.2011.2178134) <br/>
 Omur Arslan and Uluç Saranlı <br/>
 IEEE Transactions on Robotics (T-RO), vol. 28(3):567-579, June 2012. <br/>
-**[J1] Approximate Analytic Solutions to Nonsymmetric Stance Trajectories of the Passive Spring-loaded Inverted Pendulum with Damping**  [[pdf]](saranli_arslan_ankarali_morgul_ND2010) [[doi]](http://dx.doi.org/10.1007/s11071-010-9757-8)<br/>
+**[J1] Approximate Analytic Solutions to Nonsymmetric Stance Trajectories of the Passive Spring-loaded Inverted Pendulum with Damping**  [[pdf]](saranli_arslan_ankarali_morgul_ND2010.pdf) [[doi]](http://dx.doi.org/10.1007/s11071-010-9757-8)<br/>
 Uluç Saranlı, Omur Arslan, M. Mert Ankaralı and Ömer Morgül <br/> 
 Nonlinear Dynamics, vol. 62(4):729-742, December 2010. 
 
