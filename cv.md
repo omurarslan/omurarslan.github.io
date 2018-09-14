@@ -26,13 +26,10 @@ You can also find more about me on [ResearchGate](https://www.researchgate.net/p
 </div>
 
 <div style="clear:both">
- <br/>
- </div>
-
-### Education2
-
-* Item 1
-* Item 2
+<br/>
+</div>
+ 
+test 
 
 ### Education
 
