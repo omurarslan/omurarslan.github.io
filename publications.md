@@ -32,10 +32,10 @@ Nonlinear Dynamics, vol. 62(4):729-742, December 2010.
 
 ### Conference Proceedings
 
-**[C14] Voronoi-based Coverage Control of Pan/Tilt/Zoom Camera Networks** <br/> 
+**[C14] Voronoi-based Coverage Control of Pan/Tilt/Zoom Camera Networks** [[pdf]](/assets/publications/arslan_min_koditschek_ICRA2018.pdf)<br/> 
 Omur Arslan, Hancheng Min and Daniel E. Koditschek </br>
 IEEE International Conference on Robotics and Automation (ICRA), Brisbane, Australia, May 2018. **_(Best Paper Award Nominee on Multi-Robot Systems)_** <br/>
-**[C13] Integration of Local Geometry and Metric Information in Sampling-based Motion Planning** <br/>
+**[C13] Integration of Local Geometry and Metric Information in Sampling-based Motion Planning** [[pdf]](/assets/publications/pacelli_arslan_koditschek_ICRA2018.pdf)<br/>
 Vincent Pacelli, Omur Arslan and Daniel E. Koditschek <br/>
 IEEE International Conference on Robotics and Automation (ICRA), Brisbane, Australia, May 2018. <br/>
 **[C12] Sensor-based Reactive Symbolic Planning in Partially Known Environments** <br/>
@@ -53,7 +53,7 @@ IEEE International Conference on Robotics and Automation (ICRA), pp. 4414-4421, 
 **[C8] Detecting Poisoning Attacks on Hierarchical Malware Classification Systems** <br/>
 Dan P. Guralnik, Bill Moran Ali Pezeshki and Omur Arslan <br/>
 Cyber Sensing, SPIE Defense + Security, Anaheim, CA, May 2017. <br/>
-**[C7] Sensor-based Reactive Navigation in Unknown Convex Sphere Worlds**<br/> 
+**[C7] Sensor-based Reactive Navigation in Unknown Convex Sphere Worlds** [[pdf]](/assets/publications/arslan_koditschek_WAFR2018.pdf)<br/> 
 Omur Arslan and Daniel E. Koditschek <br/>
 The 12th International Workshop on the Algorithmic Foundations of Robotics (WAFR), San Francisco, CA, December 2016. **_(Best Paper Award Nominee)_**<br/>
 **[C6] Exact Robot Navigation using Power Diagrams**<br/>
