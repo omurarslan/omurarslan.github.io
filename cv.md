@@ -31,12 +31,12 @@ You can also find more about me on [ResearchGate](https://www.researchgate.net/p
 
 ### Education
 
-**PhD in Electrical and Systems Engineering** <br/>
+* **PhD in Electrical and Systems Engineering** <br/>
 <a href="https://www.upenn.edu/">University of Pennsylvania</a>, Philadelphia, PA, USA, August 2017 <br/>
 Thesis: Clustering-Based Robot Navigation and Control <br/>
 _Advisor:_ Daniel E. Koditschek <br/>
 
-**MSc in Electrical Engineering** <br/>
+* **MSc in Electrical Engineering** <br/>
 <a href="https://www.upenn.edu/">University of Pennsylvania</a>, Philadelphia, PA, USA, August 2012 <br/>
 _Advisor:_ Daniel E. Koditschek <br/>
 
