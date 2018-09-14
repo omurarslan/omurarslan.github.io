@@ -36,5 +36,5 @@
  <img src="{{ site.url }}/assets/metu-logo.png" style="height:50px"> &nbsp; &nbsp;
  <img src="{{ site.url }}/assets/bilkent-logo.png" style="height:50px"> &nbsp; &nbsp;
  <img src="{{ site.url }}/assets/upenn-logo.png" style="height:50px"> &nbsp; &nbsp;
- <img src="{{ site.url }}/assets/mpi-logo.png" style="height:50px"> &nbsp; &nbsp;
+ <img src="/assets/mpi-logo.png" alt="MPI" title="Max Planck Institute for Intelligent Systems" style="height:50px"> &nbsp; &nbsp;
  </div>
