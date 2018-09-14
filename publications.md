@@ -126,15 +126,19 @@ arXiv:1310.5202v1 [q-bio.PE], October 2013 <br/>
 **[T4] On Balancing Event and Area Coverage in Mobile Sensor Networks** <br/>
 Hancheng Min <br/>
 MSc Thesis, University of Pennsylvania, PA, May 2018. (Co-supervised with Daniel E. Koditschek) <br/>
+[[pdf]](/assets/publications/min_MScThesis2018.pdf)<br/>
 **[T3] Joint Exploitation of Local Metrics and Geometry in Sampling-based Planning** <br/>
 Vincent Pacelli <br/>
 MSc Thesis, University of Pennsylvania, PA, August 2017. (Co-supervised with Daniel E. Koditschek) <br/>
+[[pdf]](/assets/publications/pacelli_MScThesis2017.pdf) <br/>
 **[T2] Clustering-based Robot Navigation and Control**<br/> 
 Omur Arslan <br/>
 PhD Thesis, University of Pennsylvania, Philadelphia, PA, August 2016. <br/>
+[[pdf]](/assets/publications/arslan_PhDThesis2016.pdf)<br/>
 **[T1] Model-based Methods for the Control and Planning of Running Robots**<br/>
 Omur Arslan <br/>
-MSc Thesis, Bilkent University, Ankara, Turkey, July 2009.
+MSc Thesis, Bilkent University, Ankara, Turkey, July 2009. <br/>
+[[pdf]](/assets/publications/arslan_MScThesis2009.pdf)<br/>
 
 ### Seminars, Talks & Poster Presentations
 
@@ -144,6 +148,7 @@ Robotic Systems and Power Tools, Robert Bosch GmbH Center for Research and Devel
 **[S4] Navigation in the Space of Hierarchies** <br/>
 Omur Arslan <br/>
 Max Planck Institute for Intelligent Systems, Tübingen, Germany, February 2018 <br/>
+[[pdf]](/assets/publications/arslan_MPI-IS-Retreat2018Poster.pdf)</br>
 **[S3] Motion Planning via Reference Governors: Towards closing the gap between high-level and low-level motion planning** <br/>
 Omur Arslan <br/>
 Middle East Technical University, Ankara, Turkey, July 2017 <br/>
