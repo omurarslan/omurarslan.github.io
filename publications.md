@@ -63,8 +63,8 @@ IEEE International Conference on Robotics and Automation (ICRA), pp. 1-8, Stockh
 Omur Arslan and Daniel E. Koditschek <br/>
 IEEE International Conference on Robotics and Automation (ICRA), pp. 4259-4266, Stockholm, Sweden, May 2016 [[pdf]](/assets/publications/arslan_koditschek_ICRA2016A.pdf) [[doi]](https://doi.org/10.1109/ICRA.2016.7487622) [[techreport]](/assets/publications/arslan_koditschek_arXiv2015.pdf)<br/>
 **[C4] Hierarchically clustered navigation of distinct Euclidean particles** <br/> 
-Omur Arslan, Dan P. Guralnik and Daniel E. Koditschek <br/>
-Annual Allerton Conference on Communication, Control, and Computing (Allerton), pp. 946-953, Monticello, IL, October 2012. <br/>
+Omur Arslan, Yuliy M. Baryshnikov, Dan P. Guralnik and Daniel E. Koditschek <br/>
+Annual Allerton Conference on Communication, Control, and Computing (Allerton), pp. 946-953, Monticello, IL, October 2012  [[pdf]](/assets/publications/arslan_guralnik_baryshnikov_koditschek_Allerton2012.pdf) [[doi]](https://doi.org/10.1109/Allerton.2012.6483320)<br/>
 **[C3] Reactive footstep planning for a planar spring mass hopper** <br/>
 Omur Arslan, Uluç Saranlı and Ömer Morgül<br/>
 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pp. 160-166, St. Louis, MO, October 2009. <br/>
