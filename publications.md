@@ -92,15 +92,18 @@ Workshop on Communication-aware Robotics: New Tools for Multi-Robot Networks, Au
 
 ### Preprints 
 
-**[P3] Sensor-based reactive navigation in convex sphere worlds** <br/>
+**[P4] Sensor-based reactive navigation in convex sphere worlds** <br/>
 Omur Arslan and D.E. Koditschek <br/>
 ESE Technical Report, January 2016. <br/>
-**[P2] Anytime Hierarchical Clustering** <br/>
+**[P3] Anytime Hierarchical Clustering** <br/>
 Omur Arslan and Daniel E. Koditschek <br/>
 arXiv:1404.3439 [stat.ML], April 2014. <br/>
-**[P1] Navigation of distinct Euclidean particles via hierarchical clustering (Extended Version)** <br/>
+**[P2] Navigation of distinct Euclidean particles via hierarchical clustering (Extended Version)** <br/>
 Omur Arslan, Dan P. Guralnik and Daniel E. Koditschek <br/>
 ESE Technical Report, October 2013.
+**[P1] Discriminative Measures for Comparison of Phylogenetic Trees (A Dynamical System Perspective)** [[pdf]](/assests/publications/arslan_guralnik_koditschek_arXiv2013) [[arXiv]](https://arxiv.org/abs/1310.5202v1)<br/>
+Omur Arslan, Dan P. Guralnik and Daniel E. Koditschek </br>
+ arXiv:1310.5202v1 [q-bio.PE], October 2013
 
 ### Theses
 
