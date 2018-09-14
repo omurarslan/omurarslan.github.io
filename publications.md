@@ -157,6 +157,7 @@ Omur Arslan <br/>
 Autonomous Motion Department, Max Planck Institute for Intelligent Systems, Tübingen, Germany, June 2017 <br/>
 **[S1] Clustering-based Robot Navigation and Control** <br/> 
 Omur Arslan <br/>
-ESE PhD Colloquium, University of Pennsylvania, Philadelphia, USA, February 2016
+ESE PhD Colloquium, University of Pennsylvania, Philadelphia, USA, February 2016 <br/>
+[[video]](https://www.youtube.com/watch?v=GThDoHfcAPE)
 
 
