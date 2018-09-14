@@ -66,12 +66,15 @@ IEEE International Conference on Robotics and Automation (ICRA), pp. 4259-4266, 
 Omur Arslan, Yuliy M. Baryshnikov, Dan P. Guralnik and Daniel E. Koditschek <br/>
 Annual Allerton Conference on Communication, Control, and Computing (Allerton), pp. 946-953, Monticello, IL, October 2012  [[pdf]](/assets/publications/arslan_guralnik_baryshnikov_koditschek_Allerton2012.pdf) [[doi]](https://doi.org/10.1109/Allerton.2012.6483320)<br/>
 **[C3] Reactive footstep planning for a planar spring mass hopper** <br/>
-Omur Arslan, Uluç Saranlı and Ömer Morgül, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pp. 160-166, St. Louis, MO, October 2009 [[pdf]](/assets/publications/arslan_saranli_morgul_IROS2009.pdf) [[doi]](https://doi.org/10.1109/IROS.2009.5354354) <br/>
+Omur Arslan, Uluç Saranlı and Ömer Morgül <br/> IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pp. 160-166, St. Louis, MO, October 2009 <br/> 
+[[pdf]](/assets/publications/arslan_saranli_morgul_IROS2009.pdf) [[doi]](https://doi.org/10.1109/IROS.2009.5354354) <br/>
 **[C2] An analytical solution to the stance dynamics of passive spring-loaded inverted pendulum with damping** <br/>
-M. Mert Ankaralı, Omur Arslan, and Uluç Saranlı, International Conference on Climbing and Walking Robots and the Support Technologies for Mobile Machines (CLAWAR), pp. 693-700, World Scientific, Istanbul, Turkey, September 2009. [[pdf]](/assets/publications/ankarali_arslan_saranli_CLAWAR2009.pdf) [[doi]](https://doi.org/10.1142/9789814291279_0085)<br/>
+M. Mert Ankaralı, Omur Arslan, and Uluç Saranlı <br/> 
+International Conference on Climbing and Walking Robots and the Support Technologies for Mobile Machines (CLAWAR), pp. 693-700, World Scientific, Istanbul, Turkey, September 2009. <br/>
+[[pdf]](/assets/publications/ankarali_arslan_saranli_CLAWAR2009.pdf) [[doi]](https://doi.org/10.1142/9789814291279_0085)<br/>
 **[C1] An approximate stance map of the spring mass hopper with gravity correction for nonsymmetric locomotions**<br/>
 Omur Arslan, Uluç Saranlı and Ömer Morgül <br/>
-IEEE International Conference on Robotics and Automation (ICRA), pp. 2388-2393, Kobe, Japan, May 2009.
+IEEE International Conference on Robotics and Automation (ICRA), pp. 2388-2393, Kobe, Japan, May 2009 <br/> [[pdf]](/assets/publications/arslan_saranli_morgul_ICRA2009.pdf) [[doi]](https://doi.org/10.1109/ROBOT.2009.5152470)
 
 ### Book Chapters
 
