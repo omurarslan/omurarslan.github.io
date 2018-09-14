@@ -1,6 +1,7 @@
 <div>
 
 <div style="float:left;">
+<!-- 
 <div align="center">
 <img src="{{ site.url }}/assets/omurarslan.jpg" alt="Omur Arslan, PhD - Robotics Researcher" title="Omur Arslan, PhD - Robotics Researcher" style="width:250px">
 <br>
@@ -12,6 +13,8 @@
  <a href="https://www.linkedin.com/in/omurarslan" target="_blank" style="text-decoration:none;"><i class="fab fa-linkedin" style="font-size:1.5em;color:black;"></i></a> &nbsp;
  <a href="{{ site.url }}/assets/OmurArslanCV2018.pdf" target="_blank" style="text-decoration:none"><i class="ai ai-cv-square big-icon" style="font-size:1.5em;color:black;"></i></a>
 </div> 
+-->
+{% include profile_photo.md %} 
 </div> 
 
  
