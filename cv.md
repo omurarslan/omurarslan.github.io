@@ -30,15 +30,6 @@ You can also find more about me on [ResearchGate](https://www.researchgate.net/p
   <br/>
   <h3> Contact Information</h3>
   {% include contact_info.md %}
-  <!--
- <p> Autonomous Motion Department <br/>
-Max Planck Institute for Intelligent Systems <br/>
-Max-Planck-Ring 4 <br/>
-Tübingen, Germany 72076<br/>
-Email: <a href="mailto:omur.arslan@tuebingen.mpg.de">omur.arslan@tuebingen.mpg.de</a> <br/>
-Office: N2.017   
- </p>
-  -->
 </div>  
 </div>
 
