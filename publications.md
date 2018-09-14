@@ -43,7 +43,8 @@ Nonlinear Dynamics, vol. 62(4):729-742, December 2010 <br/>
 
 **[C14] Voronoi-based Coverage Control of Pan/Tilt/Zoom Camera Networks**<br/> 
 Omur Arslan, Hancheng Min and Daniel E. Koditschek <br/>
-IEEE International Conference on Robotics and Automation (ICRA), Brisbane, Australia, May 2018 **_(Best Paper Award Nominee on Multi-Robot Systems)_** <br/>
+IEEE International Conference on Robotics and Automation (ICRA), Brisbane, Australia, May 2018 <br/> 
+<span style="color:tomato";>**_(Best Paper Award Nominee on Multi-Robot Systems)_** </span><br/>
 [[pdf]](/assets/publications/arslan_min_koditschek_ICRA2018.pdf) [[video]](https://www.youtube.com/watch?v=SPgzAE6J2tA) <br/> 
 **[C13] Integration of Local Geometry and Metric Information in Sampling-based Motion Planning**<br/>
 Vincent Pacelli, Omur Arslan and Daniel E. Koditschek <br/>
