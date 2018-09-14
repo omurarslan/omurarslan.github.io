@@ -80,7 +80,8 @@ IEEE International Conference on Robotics and Automation (ICRA), pp. 2388-2393, 
 
 **[B1] Navigation of Distinct Euclidean Particles via Hierarchical Clustering** <br/>
 Omur Arslan, Dan P. Guralnik and Daniel E. Koditschek <br/>
-Algorithmic Foundations of Robotics XI, vol. 107:19-36, Springer Tracts in Advanced Robotics, April 2015. 
+Algorithmic Foundations of Robotics XI, vol. 107:19-36, Springer Tracts in Advanced Robotics, April 2015 <br/>
+[[pdf]](/assests/publications/arslan_guralnik_koditschek_WAFR2014.pdf)  [[techreport]](/assets/publications/arslan_guralnik_koditschek_WAFR2014TechReport.pdf) [[doi]](https://doi.org/10.1007/978-3-319-16595-0_2)
 
 ### Reviewed Workshop Papers
 
@@ -101,16 +102,19 @@ Omur Arslan and D.E. Koditschek <br/>
 ESE Technical Report, January 2016. [[pdf]](/assets/publications/arslan_koditschek_WAFR2016TechReport.pdf) <br/>
 **[P4] Voronoi-based Coverage Control of Heterogeneous Disk-shaped Robots(Extended Version)**<br/>
 Omur Arslan and Daniel E. Koditschek <br/>
-	arXiv:1509.03842 [cs.RO] [[pdf]](/assets/publications/arslan_koditschek_arXiv2015.pdf) [[arXiv]](https://arxiv.org/abs/1509.03842) <br/>
+arXiv:1509.03842 [cs.RO] <br/>
+[[pdf]](/assets/publications/arslan_koditschek_arXiv2015.pdf) [[arXiv]](https://arxiv.org/abs/1509.03842) <br/>
 **[P3] Anytime Hierarchical Clustering** <br/>
 Omur Arslan and Daniel E. Koditschek <br/>
-arXiv:1404.3439 [stat.ML], April 2014. <br/>
-**[P2] Navigation of distinct Euclidean particles via hierarchical clustering (Extended Version)** <br/>
+arXiv:1404.3439 [stat.ML], April 2014 <br/>
+**[P2] Navigation of Distinct Euclidean Particles via Hierarchical Clustering (Extended Version)** <br/>
 Omur Arslan, Dan P. Guralnik and Daniel E. Koditschek <br/>
-ESE Technical Report, October 2013.<br/>
+ESE Technical Report, October 2013 <br/>
+[[pdf]]([[techreport]](/assets/publications/arslan_guralnik_koditschek_WAFR2014TechReport.pdf)) <br/>
 **[P1] Discriminative Measures for Comparison of Phylogenetic Trees (A Dynamical System Perspective)**<br/>
 Omur Arslan, Dan P. Guralnik and Daniel E. Koditschek <br/>
- arXiv:1310.5202v1 [q-bio.PE], October 2013. [[pdf]](/assets/publications/arslan_guralnik_koditschek_arXiv2013.pdf) [[arXiv]](https://arxiv.org/abs/1310.5202v1)
+arXiv:1310.5202v1 [q-bio.PE], October 2013 <br/>
+[[pdf]](/assets/publications/arslan_guralnik_koditschek_arXiv2013.pdf) [[arXiv]](https://arxiv.org/abs/1310.5202v1)
 
 ### Theses
 
