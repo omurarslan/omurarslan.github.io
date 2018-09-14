@@ -50,6 +50,7 @@ IEEE International Conference on Robotics and Automation (ICRA), Brisbane, Austr
 Vincent Pacelli, Omur Arslan and Daniel E. Koditschek <br/>
 IEEE International Conference on Robotics and Automation (ICRA), Brisbane, Australia, May 2018 <br/>
 [[pdf]](/assets/publications/pacelli_arslan_koditschek_ICRA2018.pdf) [[video]](https://www.youtube.com/watch?v=hY2yb1CwbaY)<br/>
+<!--
 **[C12] Sensor-based Reactive Symbolic Planning in Partially Known Environments**<br/>
 Vasileios Vasilopoulos, William Vega-Brown, Omur Arslan, Nicholas Roy and Daniel E. Koditschek <br/>
 IEEE International Conference on Robotics and Automation (ICRA), Brisbane, Australia, May 2018 <br/> 
@@ -62,6 +63,7 @@ IEEE International Conference on Robotics and Biomimetics (ROBIO), pp. 2630-2637
 Omur Arslan, Vincent Pacelli and Daniel E. Koditschek <br/>
 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pp. 3708- 3715, Vancouver, BC, Canada, September 2017 <br/>
 [[pdf]](/assets/publications/arslan_pacelli_koditschek_IROS2017.pdf) [[video]](https://www.youtube.com/watch?v=XZxOOSiwY2Y) [[doi]](https://doi.org/10.1109/IROS.2017.8206218) <br/>
+-->
 **[C9] Smooth Extensions of Feedback Motion Planners via Reference Governors** <br/>
 Omur Arslan and Daniel E. Koditschek <br/>
 IEEE International Conference on Robotics and Automation (ICRA), pp. 4414-4421, Singapore, May 2017 <br/>
