@@ -4,7 +4,7 @@ title: Research
 description: Omur Arslan's Research
 ---
 
-## Research Interest
+## Research Interests
 
 <div >
 <img src="{{ site.url }}/assets/RobotsInOurEverydayLives.png" alt="The Rise of Robots in Our Everyday Lives" title="The Rise of Robots in Our Everyday Lives" style="height:240px;float:left;margin-top:0.75em;padding-right:1em;">  
