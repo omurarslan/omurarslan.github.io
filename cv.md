@@ -31,6 +31,11 @@ You can also find more about me on [ResearchGate](https://www.researchgate.net/p
 
 ### Education
 
+* Item 1
+* Item 2
+
+### Education
+
 **PhD in Electrical and Systems Engineering** <br/>
 <a href="https://www.upenn.edu/">University of Pennsylvania</a>, Philadelphia, PA, USA, August 2017 <br/>
 Thesis: Clustering-Based Robot Navigation and Control <br/>
