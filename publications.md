@@ -50,11 +50,11 @@ IEEE International Conference on Robotics and Automation (ICRA), Brisbane, Austr
 Vincent Pacelli, Omur Arslan and Daniel E. Koditschek <br/>
 IEEE International Conference on Robotics and Automation (ICRA), Brisbane, Australia, May 2018 <br/>
 [[pdf]](/assets/publications/pacelli_arslan_koditschek_ICRA2018.pdf) [[video]](https://www.youtube.com/watch?v=hY2yb1CwbaY)<br/>
-<!--
 **[C12] Sensor-based Reactive Symbolic Planning in Partially Known Environments**<br/>
 Vasileios Vasilopoulos, William Vega-Brown, Omur Arslan, Nicholas Roy and Daniel E. Koditschek <br/>
 IEEE International Conference on Robotics and Automation (ICRA), Brisbane, Australia, May 2018 <br/> 
 [[pdf]](/assets/publications/vasilopoulos_vega-brown_arslan_roy_koditschek_ICRA2018.pdf) [[techreport]](/assets/publications/vasilopoulos_vega-brown_arslan_roy_koditschek_arXiv2018.pdf) [[video]](https://www.youtube.com/watch?v=_07_q-edjmM) <br/>
+<!--
 **[C11] Sensor-based Legged Robot Homing using Range-only Target Localization** <br/>
 Vasileios Vasilopoulos, Omur Arslan, Avik De and Daniel E. Koditschek <br/>
 IEEE International Conference on Robotics and Biomimetics (ROBIO), pp. 2630-2637, Macau, December 2017 <br/>
