@@ -1,7 +1,7 @@
 <div>
 
 <div style="float:left;">
-<div style="width:250px;" align="center">
+<div align="center">
 <img src="{{ site.url }}/assets/omurarslan.jpg" alt="Omur Arslan, PhD - Robotics Researcher" title="Omur Arslan, PhD - Robotics Researcher" style="width:250px">
 <br>
  <a href="mailto:omur.arslan@tuebingen.mpg.de" style="text-decoration:none;"> <i class="fas fa-envelope" style="font-size:1.5em;color:black;"></i> </a>&nbsp;
