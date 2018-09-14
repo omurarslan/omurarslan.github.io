@@ -5,7 +5,7 @@ description: Omur Arslan's CV
 ---
 
 ## CV
-[Education](/cv#education) | [Academic Appointments](/cv#academis-appointments) | [Teaching Experience](/cv#teaching-experience) | [Honors & Awards](/cv/#honors--awards) | [Profesional Activities](/cv/#professional-activities)
+[Education](/cv#education) | [Academic Appointments](/cv#academic-appointments) | [Teaching Experience](/cv#teaching-experience) | [Honors & Awards](/cv#honors--awards) | [Profesional Activities](/cv#professional-activities)
 
 You can download a pdf copy of my curriculum vitae [here](/assets/OmurArslanCV2018.pdf). <br/> 
 You can also find more about me on [ResearchGate](https://www.researchgate.net/profile/Omur_Arslan), [ORCID](https://orcid.org/0000-0003-0436-6424) and [LinkedIn](https://www.linkedin.com/in/omurarslan).
