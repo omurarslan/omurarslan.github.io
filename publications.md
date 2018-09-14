@@ -49,7 +49,7 @@ Omur Arslan, Vincent Pacelli and Daniel E. Koditschek <br/>
 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pp. 3708- 3715, Vancouver, BC, Canada, September 2017 [[pdf]](/assets/publications/arslan_pacelli_koditschek_IROS2017.pdf) [[doi]](https://doi.org/10.1109/IROS.2017.8206218) [[video]](https://www.youtube.com/watch?v=XZxOOSiwY2Y) <br/>
 **[C9] Smooth Extensions of Feedback Motion Planners via Reference Governors** <br/>
 Omur Arslan and Daniel E. Koditschek <br/>
-IEEE International Conference on Robotics and Automation (ICRA), pp. 4414-4421, Singapore, May 2017. <br/>
+IEEE International Conference on Robotics and Automation (ICRA), pp. 4414-4421, Singapore, May 2017 [[pdf]](/assets/publications/arslan_koditschek_ICRA2017.pdf) [[doi]](https://doi.org/10.1109/ICRA.2017.7989510)  <br/>
 **[C8] Detecting Poisoning Attacks on Hierarchical Malware Classification Systems** <br/>
 Dan P. Guralnik, Bill Moran Ali Pezeshki and Omur Arslan <br/>
 Cyber Sensing, SPIE Defense + Security, Anaheim, CA, May 2017. <br/>
