@@ -32,10 +32,9 @@
  </div>
 
 <div align="center" style="padding-top:1em;padding-bottom:0em;margin-bottom:-0.5em;">
- <img src="{{ site.url }}/assets/hacettepe-logo.png" style="height:50px"> &nbsp; &nbsp;
- <img src="{{ site.url }}/assets/metu-logo.png" style="height:50px"> &nbsp; &nbsp;
- <img src="{{ site.url }}/assets/bilkent-logo.png" style="height:50px"> &nbsp; &nbsp;
- <img src="{{ site.url }}/assets/upenn-logo.png" style="height:50px"> &nbsp; &nbsp;
- <a href="https://is.mpg.de/">
- <img src="/assets/mpi-logo.png" alt="MPI" title="Max Planck Institute for Intelligent Systems" style="height:50px"> </a> &nbsp; &nbsp;
+ <a href="https://www.hacettepe.edu.tr/english/"><img src="{{ site.url }}/assets/hacettepe-logo.png" style="height:50px"></a> &nbsp; &nbsp;
+ <a href="http://www.metu.edu.tr/"><img src="{{ site.url }}/assets/metu-logo.png" style="height:50px"></a> &nbsp; &nbsp;
+ <a href="http://www.bilkent.edu.tr"><img src="/assets/bilkent-logo.png" style="height:50px"></a> &nbsp; &nbsp;
+ <a href="https://www.upenn.edu/"><img src="/assets/upenn-logo.png" alt="UPenn" title="University of Pennsylvania" style="height:50px"></a> &nbsp; &nbsp;
+ <a href="https://is.mpg.de/"><img src="/assets/mpi-logo.png" alt="MPI" title="Max Planck Institute for Intelligent Systems" style="height:50px"></a> &nbsp; &nbsp;
  </div>
