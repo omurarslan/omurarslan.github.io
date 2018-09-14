@@ -15,68 +15,86 @@ description: Omur Arslan's Publications
 
 **[J6] Sensor-based Reactive Navigation in Unknown Convex Sphere Worlds**<br/> 
 Omur Arslan and Daniel E. Koditschek <br/>
-The International Journal of Robotics Research (IJRR), September 2018. [[pdf]](/assets/publications/arslan_koditschek_IJRR2018.pdf) [[doi]](https://doi.org/10.1177/0278364918796267)<br/>
+The International Journal of Robotics Research (IJRR), September 2018 <br/>
+[[pdf]](/assets/publications/arslan_koditschek_IJRR2018.pdf) [[doi]](https://doi.org/10.1177/0278364918796267)<br/>
 **[J5] Discriminative Measures for Comparison of Phylogenetic Trees**<br/>
 Omur Arslan, Dan P. Guralnik and Daniel E. Koditschek <br/>
-Discrete Applied Mathematics (DAM), vol. 217(3):405-426, January 2017. [[pdf]](/assets/publications/arslan_guralnik_koditschek_DAM2017.pdf) [[doi]](https://doi.org/10.1016/j.dam.2016.10.003)<br/>
+Discrete Applied Mathematics (DAM), vol. 217(3):405-426, January 2017 <br/>
+[[pdf]](/assets/publications/arslan_guralnik_koditschek_DAM2017.pdf) [[doi]](https://doi.org/10.1016/j.dam.2016.10.003)<br/>
 **[J4] Coordinated Robot Navigation via Hierarchical Clustering** <br/>
 Omur Arslan, Dan P. Guralnik and Daniel E. Koditschek <br/>
-IEEE Transactions on Robotics (T-RO), vol. 32(2):352-371, April 2016. [[pdf]](/assets/publications/arslan_guralnik_koditschek_TRO2016.pdf) [[doi]](http://dx.doi.org/10.1109/TRO.2016.2524018)<br/>
+IEEE Transactions on Robotics (T-RO), vol. 32(2):352-371, April 2016 <br/>
+[[pdf]](/assets/publications/arslan_guralnik_koditschek_TRO2016.pdf) [[doi]](http://dx.doi.org/10.1109/TRO.2016.2524018)<br/>
 **[J3] On the Optimality of Napoleon Triangles**<br/>
 Omur Arslan and Daniel E. Koditschek <br/>
-Journal of Optimization Theory and Applications (JOTA), vol. 1(1):1-10, March 2016. [[pdf]](/assets/publications/arslan_koditschek_JOTA2016.pdf) [[doi]](http://dx.doi.org/10.1007/s10957-016-0911-4)<br/> 
+Journal of Optimization Theory and Applications (JOTA), vol. 1(1):1-10, March 2016 <br/>
+[[pdf]](/assets/publications/arslan_koditschek_JOTA2016.pdf) [[doi]](http://dx.doi.org/10.1007/s10957-016-0911-4)<br/> 
 **[J2] Reactive Planning and Control of Planar Spring–mass Running on Rough Terrain**<br/>
 Omur Arslan and Uluç Saranlı <br/>
-IEEE Transactions on Robotics (T-RO), vol. 28(3):567-579, June 2012. [[pdf]](/assets/publications/arslan_saranli_TRO2012.pdf) [[doi]](https://doi.org/10.1109/TRO.2011.2178134)<br/>
+IEEE Transactions on Robotics (T-RO), vol. 28(3):567-579, June 2012 <br/>
+[[pdf]](/assets/publications/arslan_saranli_TRO2012.pdf) [[doi]](https://doi.org/10.1109/TRO.2011.2178134)<br/>
 **[J1] Approximate Analytic Solutions to Nonsymmetric Stance Trajectories of the Passive Spring-loaded Inverted Pendulum with Damping**<br/>
 Uluç Saranlı, Omur Arslan, M. Mert Ankaralı and Ömer Morgül <br/> 
-Nonlinear Dynamics, vol. 62(4):729-742, December 2010. [[pdf]](/assets/publications/saranli_arslan_ankarali_morgul_ND2010.pdf) [[doi]](http://dx.doi.org/10.1007/s11071-010-9757-8)
+Nonlinear Dynamics, vol. 62(4):729-742, December 2010 <br/>
+[[pdf]](/assets/publications/saranli_arslan_ankarali_morgul_ND2010.pdf) [[doi]](http://dx.doi.org/10.1007/s11071-010-9757-8)
 
 ### Conference Proceedings
 
 **[C14] Voronoi-based Coverage Control of Pan/Tilt/Zoom Camera Networks**<br/> 
-Omur Arslan, Hancheng Min and Daniel E. Koditschek </br>
-IEEE International Conference on Robotics and Automation (ICRA), Brisbane, Australia, May 2018. **_(Best Paper Award Nominee on Multi-Robot Systems)_** [[pdf]](/assets/publications/arslan_min_koditschek_ICRA2018.pdf)<br/>
+Omur Arslan, Hancheng Min and Daniel E. Koditschek <br/>
+IEEE International Conference on Robotics and Automation (ICRA), Brisbane, Australia, May 2018 **_(Best Paper Award Nominee on Multi-Robot Systems)_** <br/>
+[[pdf]](/assets/publications/arslan_min_koditschek_ICRA2018.pdf)<br/> [[video]](https://www.youtube.com/watch?v=SPgzAE6J2tA)
 **[C13] Integration of Local Geometry and Metric Information in Sampling-based Motion Planning**<br/>
 Vincent Pacelli, Omur Arslan and Daniel E. Koditschek <br/>
-IEEE International Conference on Robotics and Automation (ICRA), Brisbane, Australia, May 2018. [[pdf]](/assets/publications/pacelli_arslan_koditschek_ICRA2018.pdf)<br/>
+IEEE International Conference on Robotics and Automation (ICRA), Brisbane, Australia, May 2018 <br/>
+[[pdf]](/assets/publications/pacelli_arslan_koditschek_ICRA2018.pdf) [[video]](https://www.youtube.com/watch?v=hY2yb1CwbaY)<br/>
 **[C12] Sensor-based Reactive Symbolic Planning in Partially Known Environments**<br/>
 Vasileios Vasilopoulos, William Vega-Brown, Omur Arslan, Nicholas Roy and Daniel E. Koditschek <br/>
-IEEE International Conference on Robotics and Automation (ICRA), Brisbane, Australia, May 2018. [[pdf]](/assets/publications/vasilopoulos_vega-brown_arslan_roy_koditschek_ICRA2018.pdf) [[techreport]](/assets/publications/vasilopoulos_vega-brown_arslan_roy_koditschek_arXiv2018.pdf) [[video]](https://www.youtube.com/watch?v=_07_q-edjmM) <br/>
+IEEE International Conference on Robotics and Automation (ICRA), Brisbane, Australia, May 2018 <br/> 
+[[pdf]](/assets/publications/vasilopoulos_vega-brown_arslan_roy_koditschek_ICRA2018.pdf) [[techreport]](/assets/publications/vasilopoulos_vega-brown_arslan_roy_koditschek_arXiv2018.pdf) [[video]](https://www.youtube.com/watch?v=_07_q-edjmM) <br/>
 **[C11] Sensor-based Legged Robot Homing using Range-only Target Localization** <br/>
 Vasileios Vasilopoulos, Omur Arslan, Avik De and Daniel E. Koditschek <br/>
-IEEE International Conference on Robotics and Biomimetics (ROBIO), pp. 2630-2637, Macau, December 2017 [[pdf]](/assets/publications/vasilopoulos_arslan_de_koditschek_ROBIO2017.pdf) [[doi]](https://doi.org/10.1109/ROBIO.2017.8324816) [[video]](https://www.youtube.com/watch?v=kJM0fSxxL9k)<br/>
+IEEE International Conference on Robotics and Biomimetics (ROBIO), pp. 2630-2637, Macau, December 2017 <br/>
+[[pdf]](/assets/publications/vasilopoulos_arslan_de_koditschek_ROBIO2017.pdf) [[doi]](https://doi.org/10.1109/ROBIO.2017.8324816) [[video]](https://www.youtube.com/watch?v=kJM0fSxxL9k)<br/>
 **[C10] Sensory Steering for Sampling-based Motion Planning** <br/>
 Omur Arslan, Vincent Pacelli and Daniel E. Koditschek <br/>
-IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pp. 3708- 3715, Vancouver, BC, Canada, September 2017 [[pdf]](/assets/publications/arslan_pacelli_koditschek_IROS2017.pdf) [[doi]](https://doi.org/10.1109/IROS.2017.8206218) [[video]](https://www.youtube.com/watch?v=XZxOOSiwY2Y) <br/>
+IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pp. 3708- 3715, Vancouver, BC, Canada, September 2017 <br/>
+[[pdf]](/assets/publications/arslan_pacelli_koditschek_IROS2017.pdf) [[doi]](https://doi.org/10.1109/IROS.2017.8206218) [[video]](https://www.youtube.com/watch?v=XZxOOSiwY2Y) <br/>
 **[C9] Smooth Extensions of Feedback Motion Planners via Reference Governors** <br/>
 Omur Arslan and Daniel E. Koditschek <br/>
-IEEE International Conference on Robotics and Automation (ICRA), pp. 4414-4421, Singapore, May 2017 [[pdf]](/assets/publications/arslan_koditschek_ICRA2017.pdf) [[doi]](https://doi.org/10.1109/ICRA.2017.7989510)  <br/>
+IEEE International Conference on Robotics and Automation (ICRA), pp. 4414-4421, Singapore, May 2017 <br/>
+[[pdf]](/assets/publications/arslan_koditschek_ICRA2017.pdf) [[doi]](https://doi.org/10.1109/ICRA.2017.7989510)  <br/>
 **[C8] Detecting Poisoning Attacks on Hierarchical Malware Classification Systems** <br/>
 Dan P. Guralnik, Bill Moran, Ali Pezeshki and Omur Arslan <br/>
-Cyber Sensing, SPIE Defense + Security, Anaheim, CA, May 2017 [[pdf]](/assets/publications/guralnik_moran_pezeshki_arslan_SPIE2017.pdf) [[doi]](http://dx.doi.org/doi:10.1117/12.2266556) <br/>
+Cyber Sensing, SPIE Defense + Security, Anaheim, CA, May 2017 <br/>
+[[pdf]](/assets/publications/guralnik_moran_pezeshki_arslan_SPIE2017.pdf) [[doi]](http://dx.doi.org/doi:10.1117/12.2266556) <br/>
 **[C7] Sensor-based Reactive Navigation in Unknown Convex Sphere Worlds**<br/> 
 Omur Arslan and Daniel E. Koditschek <br/>
-The 12th International Workshop on the Algorithmic Foundations of Robotics (WAFR), San Francisco, CA, December 2016. **_(Best Paper Award Nominee)_** [[pdf]](/assets/publications/arslan_koditschek_WAFR2016.pdf) [[techreport]](/assets/publications/arslan_koditschek_WAFR2016TechReport.pdf) [[video]](https://www.youtube.com/watch?v=sRGzkUGrJnU)<br/>
+The 12th International Workshop on the Algorithmic Foundations of Robotics (WAFR), San Francisco, CA, December 2016. **_(Best Paper Award Nominee)_** <br/>
+[[pdf]](/assets/publications/arslan_koditschek_WAFR2016.pdf) [[techreport]](/assets/publications/arslan_koditschek_WAFR2016TechReport.pdf) [[video]](https://www.youtube.com/watch?v=sRGzkUGrJnU)<br/>
 **[C6] Exact Robot Navigation using Power Diagrams**<br/>
 Omur Arslan and Daniel E. Koditschek <br/>
-IEEE International Conference on Robotics and Automation (ICRA), pp. 1-8, Stockholm, Sweden, May 2016 [[pdf]](/assets/publications/arslan_koditschek_ICRA2016B.pdf) [[doi]](https://doi.org/10.1109/ICRA.2016.7487090) <br/>
+IEEE International Conference on Robotics and Automation (ICRA), pp. 1-8, Stockholm, Sweden, May 2016 <br/>
+[[pdf]](/assets/publications/arslan_koditschek_ICRA2016B.pdf) [[doi]](https://doi.org/10.1109/ICRA.2016.7487090) <br/>
 **[C5] Voronoi-based Coverage Control of Heterogeneous Disk-shaped Robots**<br/> 
 Omur Arslan and Daniel E. Koditschek <br/>
-IEEE International Conference on Robotics and Automation (ICRA), pp. 4259-4266, Stockholm, Sweden, May 2016 [[pdf]](/assets/publications/arslan_koditschek_ICRA2016A.pdf) [[doi]](https://doi.org/10.1109/ICRA.2016.7487622) [[techreport]](/assets/publications/arslan_koditschek_arXiv2015.pdf)<br/>
-**[C4] Hierarchically clustered navigation of distinct Euclidean particles** <br/> 
+IEEE International Conference on Robotics and Automation (ICRA), pp. 4259-4266, Stockholm, Sweden, May 2016 <br/>
+[[pdf]](/assets/publications/arslan_koditschek_ICRA2016A.pdf) [[doi]](https://doi.org/10.1109/ICRA.2016.7487622) [[techreport]](/assets/publications/arslan_koditschek_arXiv2015.pdf)<br/>
+**[C4] Hierarchically Clustered Navigation of Distinct Euclidean Particles** <br/> 
 Omur Arslan, Yuliy M. Baryshnikov, Dan P. Guralnik and Daniel E. Koditschek <br/>
-Annual Allerton Conference on Communication, Control, and Computing (Allerton), pp. 946-953, Monticello, IL, October 2012  [[pdf]](/assets/publications/arslan_guralnik_baryshnikov_koditschek_Allerton2012.pdf) [[doi]](https://doi.org/10.1109/Allerton.2012.6483320)<br/>
-**[C3] Reactive footstep planning for a planar spring mass hopper** <br/>
+Annual Allerton Conference on Communication, Control, and Computing (Allerton), pp. 946-953, Monticello, IL, October 2012 <br/> 
+[[pdf]](/assets/publications/arslan_guralnik_baryshnikov_koditschek_Allerton2012.pdf) [[doi]](https://doi.org/10.1109/Allerton.2012.6483320)<br/>
+**[C3] Reactive Footstep Planning for a Planar Spring Mass Hopper** <br/>
 Omur Arslan, Uluç Saranlı and Ömer Morgül <br/> IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pp. 160-166, St. Louis, MO, October 2009 <br/> 
 [[pdf]](/assets/publications/arslan_saranli_morgul_IROS2009.pdf) [[doi]](https://doi.org/10.1109/IROS.2009.5354354) <br/>
-**[C2] An analytical solution to the stance dynamics of passive spring-loaded inverted pendulum with damping** <br/>
+**[C2] An Analytical Solution to the Stance Dynamics of Passive Spring-loaded Inverted Pendulum with Damping** <br/>
 M. Mert Ankaralı, Omur Arslan, and Uluç Saranlı <br/> 
-International Conference on Climbing and Walking Robots and the Support Technologies for Mobile Machines (CLAWAR), pp. 693-700, World Scientific, Istanbul, Turkey, September 2009. <br/>
+International Conference on Climbing and Walking Robots and the Support Technologies for Mobile Machines (CLAWAR), pp. 693-700, World Scientific, Istanbul, Turkey, September 2009 <br/>
 [[pdf]](/assets/publications/ankarali_arslan_saranli_CLAWAR2009.pdf) [[doi]](https://doi.org/10.1142/9789814291279_0085)<br/>
-**[C1] An approximate stance map of the spring mass hopper with gravity correction for nonsymmetric locomotions**<br/>
+**[C1] An Approximate Stance Map of the Spring Mass Hopper with Gravity Correction for Nonsymmetric Locomotions**<br/>
 Omur Arslan, Uluç Saranlı and Ömer Morgül <br/>
-IEEE International Conference on Robotics and Automation (ICRA), pp. 2388-2393, Kobe, Japan, May 2009 <br/> [[pdf]](/assets/publications/arslan_saranli_morgul_ICRA2009.pdf) [[doi]](https://doi.org/10.1109/ROBOT.2009.5152470)
+IEEE International Conference on Robotics and Automation (ICRA), pp. 2388-2393, Kobe, Japan, May 2009 <br/> 
+[[pdf]](/assets/publications/arslan_saranli_morgul_ICRA2009.pdf) [[doi]](https://doi.org/10.1109/ROBOT.2009.5152470)
 
 ### Book Chapters
 
