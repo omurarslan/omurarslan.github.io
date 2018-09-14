@@ -1,6 +1,6 @@
 ---
 layout: mydefault
-title: Home
+title: Omur Arslan | Home
 description: Omur Arslan, PhD - Robotics Researcher - Webpage
 ---
 
