@@ -28,8 +28,6 @@ You can also find more about me on [ResearchGate](https://www.researchgate.net/p
 <div style="clear:both">
 <br/>
 </div>
- 
-test 
 
 ### Education
 
