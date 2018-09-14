@@ -11,7 +11,7 @@ Yo can check my publications on [Google Scholar](https://scholar.google.de/citat
 
 ### Journal Articles
 
-**[J6] Sensor-based Reactive Navigation in Unknown Convex Sphere Worlds** <br/> 
+**[J6] Sensor-based Reactive Navigation in Unknown Convex Sphere Worlds**  [[pdf]](/assets/publications/arslan_koditschek_IJRR2018.pdf)<br/> 
 Omur Arslan and Daniel E. Koditschek <br/>
 The International Journal of Robotics Research (IJRR), September 2018. <br/>
 **[J5] Discriminative Measures for Comparison of Phylogenetic Trees** <br/>
