@@ -21,7 +21,7 @@ The International Journal of Robotics Research (IJRR), September 2018 <br/>
 **[J5] Discriminative Measures for Comparison of Phylogenetic Trees**<br/>
 Omur Arslan, Dan P. Guralnik and Daniel E. Koditschek <br/>
 Discrete Applied Mathematics (DAM), vol. 217(3):405-426, January 2017 <br/>
-[[pdf]](/assets/publications/arslan_guralnik_koditschek_DAM2017.pdf) [[doi]](https://doi.org/10.1016/j.dam.2016.10.003)<br/>
+[[pdf]](/assets/publications/arslan_guralnik_koditschek_DAM2017.pdf) [[techreport]](/assets/publications/arslan_guralnik_koditschek_arXiv2013.pdf) [[poster]](/assets/publications/arslan_MPI-IS-Retreat2018Poster.pdf) [[doi]](https://doi.org/10.1016/j.dam.2016.10.003)<br/>
 **[J4] Coordinated Robot Navigation via Hierarchical Clustering** <br/>
 Omur Arslan, Dan P. Guralnik and Daniel E. Koditschek <br/>
 IEEE Transactions on Robotics (T-RO), vol. 32(2):352-371, April 2016 <br/>
@@ -136,7 +136,7 @@ arXiv:1404.3439 [stat.ML], April 2014 <br/>
 **[P2] Navigation of Distinct Euclidean Particles via Hierarchical Clustering (Extended Version)** <br/>
 Omur Arslan, Dan P. Guralnik and Daniel E. Koditschek <br/>
 ESE Technical Report, October 2013 <br/>
-[[pdf]]([[techreport]](/assets/publications/arslan_guralnik_koditschek_WAFR2014TechReport.pdf)) <br/>
+[[pdf]](/assets/publications/arslan_guralnik_koditschek_WAFR2014TechReport.pdf) <br/>
 **[P1] Discriminative Measures for Comparison of Phylogenetic Trees (A Dynamical System Perspective)**<br/>
 Omur Arslan, Dan P. Guralnik and Daniel E. Koditschek <br/>
 arXiv:1310.5202v1 [q-bio.PE], October 2013 <br/>
