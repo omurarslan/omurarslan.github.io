@@ -81,7 +81,7 @@ IEEE International Conference on Robotics and Automation (ICRA), pp. 2388-2393, 
 **[B1] Navigation of Distinct Euclidean Particles via Hierarchical Clustering** <br/>
 Omur Arslan, Dan P. Guralnik and Daniel E. Koditschek <br/>
 Algorithmic Foundations of Robotics XI, vol. 107:19-36, Springer Tracts in Advanced Robotics, April 2015 <br/>
-[[pdf]](/assests/publications/arslan_guralnik_koditschek_WAFR2014.pdf)  [[techreport]](/assets/publications/arslan_guralnik_koditschek_WAFR2014TechReport.pdf) [[doi]](https://doi.org/10.1007/978-3-319-16595-0_2)
+[[pdf]](/assets/publications/arslan_guralnik_koditschek_WAFR2014.pdf)  [[techreport]](/assets/publications/arslan_guralnik_koditschek_WAFR2014TechReport.pdf) [[doi]](https://doi.org/10.1007/978-3-319-16595-0_2)
 
 ### Reviewed Workshop Papers
 
