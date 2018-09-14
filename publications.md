@@ -14,7 +14,7 @@ Yo can check my publications on [Google Scholar](https://scholar.google.de/citat
 **[J6] Sensor-based Reactive Navigation in Unknown Convex Sphere Worlds**  [[pdf]](/assets/publications/arslan_koditschek_IJRR2018.pdf) [[doi]](https://doi.org/10.1177/0278364918796267)<br/> 
 Omur Arslan and Daniel E. Koditschek <br/>
 The International Journal of Robotics Research (IJRR), September 2018. <br/>
-**[J5] Discriminative Measures for Comparison of Phylogenetic Trees** <br/>
+**[J5] Discriminative Measures for Comparison of Phylogenetic Trees** [[pdf]](/assets/publications/arslan_guralnik_koditschek_DAM2017.pdf) [[doi]](https://doi.org/10.1016/j.dam.2016.10.003) <br/>
 Omur Arslan, Dan P. Guralnik and Daniel E. Koditschek <br/>
 Discrete Applied Mathematics (DAM), vol. 217(3):405-426, January 2017. <br/>
 **[J4] Coordinated Robot Navigation via Hierarchical Clustering**<br/>
