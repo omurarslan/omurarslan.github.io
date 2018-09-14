@@ -59,9 +59,9 @@ The 12th International Workshop on the Algorithmic Foundations of Robotics (WAFR
 **[C6] Exact Robot Navigation using Power Diagrams**<br/>
 Omur Arslan and Daniel E. Koditschek <br/>
 IEEE International Conference on Robotics and Automation (ICRA), pp. 1-8, Stockholm, Sweden, May 2016 [[pdf]](/assets/publications/arslan_koditschek_ICRA2016B.pdf) [[doi]](https://doi.org/10.1109/ICRA.2016.7487090) <br/>
-**[C5] Voronoi-based Coverage Control of Heterogeneous Disk-shaped Robots** <br/> 
+**[C5] Voronoi-based Coverage Control of Heterogeneous Disk-shaped Robots**<br/> 
 Omur Arslan and Daniel E. Koditschek <br/>
-IEEE International Conference on Robotics and Automation (ICRA), pp. 4259-4266, Stockholm, Sweden, May 2016 <br/>
+IEEE International Conference on Robotics and Automation (ICRA), pp. 4259-4266, Stockholm, Sweden, May 2016 [[pdf]](/assets/publications/arslan_koditschek_ICRA2016A.pdf) [[doi]](https://doi.org/10.1109/ICRA.2016.7487622) [[techreport]](/assets/publications/arslan_koditschek_arXiv2015.pdf)<br/>
 **[C4] Hierarchically clustered navigation of distinct Euclidean particles** <br/> 
 Omur Arslan, Dan P. Guralnik and Daniel E. Koditschek <br/>
 Annual Allerton Conference on Communication, Control, and Computing (Allerton), pp. 946-953, Monticello, IL, October 2012. <br/>
@@ -91,12 +91,16 @@ Omur Arslan and Daniel E. Koditschek <br/>
 Workshop on Communication-aware Robotics: New Tools for Multi-Robot Networks, Autonomous Vehicles, and Localization (CarNet Workshop) at Robotics: Science and Systems (RSS), Berkeley, CA, USA, July 2014.
 
 ### Preprints & Technical Reports
-**[P5] Technical Report: Sensor-Based Reactive Symbolic Planning in Partially Known Environments**<br/>
+
+**[P6] Technical Report: Sensor-Based Reactive Symbolic Planning in Partially Known Environments**<br/>
 Vasileios Vasilopoulos, William Vega-Brown, Omur Arslan, Nicholas Roy and Daniel E. Koditschek <br/>
 arXiv:1709.05474 [cs.RO], Feb 2018. [[pdf]](/assets/publications/vasilopoulos_vega-brown_arslan_roy_koditschek_arXiv2018.pdf) [[arXiv]](https://arxiv.org/abs/1709.05474) [[video]](https://www.youtube.com/watch?v=_07_q-edjmM)<br/>
-**[P4] Sensor-based Reactive Navigation in Convex Sphere Worlds**<br/>
+**[P5] Sensor-based Reactive Navigation in Convex Sphere Worlds**<br/>
 Omur Arslan and D.E. Koditschek <br/>
 ESE Technical Report, January 2016. [[pdf]](/assets/publications/arslan_koditschek_WAFR2016TechReport.pdf) <br/>
+**[P4] Voronoi-based Coverage Control of Heterogeneous Disk-shaped Robots(Extended Version)**<br/>
+Omur Arslan and Daniel E. Koditschek <br/>
+	arXiv:1509.03842 [cs.RO] [[pdf]](/assets/publications/arslan_koditschek_arXiv2015.pdf) [[arXiv]](https://arxiv.org/abs/1509.03842) <br/>
 **[P3] Anytime Hierarchical Clustering** <br/>
 Omur Arslan and Daniel E. Koditschek <br/>
 arXiv:1404.3439 [stat.ML], April 2014. <br/>
