@@ -50,11 +50,11 @@ Thesis: Clustering-Based Robot Navigation and Control <br/>
 _Advisor:_ Daniel E. Koditschek <br/>
 
 **MSc in Electrical Engineering** <br/>
-University of Pennsylvania, Philadelphia, PA, USA, August 2012 <br/>
+<a href="https://www.upenn.edu/">University of Pennsylvania</a>, Philadelphia, PA, USA, August 2012 <br/>
 _Advisor:_ Daniel E. Koditschek <br/>
 
 **MSc in Electrical and Electronics Engineering** <br/>
-Bilkent University, Ankara, Turkey, June 2009 <br/>
+<a href="http://w3.bilkent.edu.tr/bilkent/">Bilkent University</a>, Ankara, Turkey, June 2009 <br/>
 _Thesis:_ Model-Based Methods for the Control and Planning of Running Robots <br/>
 _Advisors:_ Ömer Morgül and Uluç Saranlı
 
