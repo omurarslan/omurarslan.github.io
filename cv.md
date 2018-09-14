@@ -11,7 +11,7 @@ You can also find more about me on [ResearchGate](https://www.researchgate.net/p
 
 <div>
 <div style="float:left"> 
-<-- 
+<!-- 
 <div style="width:250px;" align="center">
 <img src="{{ site.url }}/assets/omurarslan.jpg" alt="Omur Arslan, PhD - Robotics Researcher" title="Omur Arslan, PhD - Robotics Researcher" style="width:250px">
 <br>
