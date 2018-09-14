@@ -4,7 +4,7 @@ title: Omur Arslan | CV
 description: Omur Arslan's CV
 ---
 
-## CV
+## Curriculum Vitae
 [Education](/cv#education) | [Academic Appointments](/cv#academic-appointments) | [Teaching Experience](/cv#teaching-experience) | [Honors & Awards](/cv#honors--awards) | [Profesional Activities](/cv#professional-activities)
 
 You can download a pdf copy of my curriculum vitae [here](/assets/OmurArslanCV2018.pdf). <br/> 
