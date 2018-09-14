@@ -7,7 +7,7 @@ description: Omur Arslan's Publications
 Yo can check my publications on [Google Scholar](https://scholar.google.de/citations?user=6W1pEn0AAAAJ&hl=en){:target="_blank"} and [ResearchGate](https://www.researchgate.net/profile/Omur_Arslan){:target="_blank"}.
 
 ## Publications
-[Journal Articles](/publications#journal-articles) | [Conference Proceedings](#publications#conference-proceedings) | [Book Chapters](/publications#book-chapters) | [Theses](/publications#theses) | [Talks](/publications#seminars-talks--poster-presentations)
+[Journal Articles](#journal-articles) | [Conference Proceedings](#conference-proceedings) | [Book Chapters](#book-chapters) | [Workshop Papers](#reviewed-workshop-papers) | [Preprints](#preprints) | [Theses](/publications#theses) | [Talks](#seminars-talks--poster-presentations)
 
 ### Journal Articles
 
