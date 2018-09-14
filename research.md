@@ -1,6 +1,6 @@
 ---
 layout: mydefault
-title: Research
+title: Omur Arslan | Research
 description: Omur Arslan's Research
 ---
 
