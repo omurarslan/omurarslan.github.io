@@ -4,10 +4,10 @@ title: Omur Arslan | Publications
 description: Omur Arslan's Publications
 ---
 
+Yo can check my publications on [Google Scholar](https://scholar.google.de/citations?user=6W1pEn0AAAAJ&hl=en){:target="_blank"} and [ResearchGate](https://www.researchgate.net/profile/Omur_Arslan){:target="_blank"}.
 
 ## Publications
-
-Yo can also check my publications on [Google Scholar](https://scholar.google.de/citations?user=6W1pEn0AAAAJ&hl=en){:target="_blank"} and [ResearchGate](https://www.researchgate.net/profile/Omur_Arslan){:target="_blank"}.
+[Journal Articles](/publications#journal-articles) | [Conference Proceedings](#publications#conference-proceedings) | [Book Chapters](/publications#book-chapters) | [Theses](/publications#theses) | [Talks](/publications#seminars-talks--poster-presentations)
 
 ### Journal Articles
 
@@ -102,6 +102,21 @@ arXiv:1404.3439 [stat.ML], April 2014. <br/>
 Omur Arslan, Dan P. Guralnik and Daniel E. Koditschek <br/>
 ESE Technical Report, October 2013.
 
+### Theses
+
+**[T4] On Balancing Event and Area Coverage in Mobile Sensor Networks** <br/>
+Hancheng Min <br/>
+MSc Thesis, University of Pennsylvania, PA, May 2018. (Co-supervised with Daniel E. Koditschek) <br/>
+**[T3] Joint Exploitation of Local Metrics and Geometry in Sampling-based Planning** <br/>
+Vincent Pacelli <br/>
+MSc Thesis, University of Pennsylvania, PA, August 2017. (Co-supervised with Daniel E. Koditschek) <br/>
+**[T2] Clustering-based Robot Navigation and Control**<br/> 
+Omur Arslan <br/>
+PhD Thesis, University of Pennsylvania, Philadelphia, PA, August 2016. <br/>
+**[T1] Model-based Methods for the Control and Planning of Running Robots**<br/>
+Omur Arslan <br/>
+MSc Thesis, Bilkent University, Ankara, Turkey, July 2009.
+
 ### Seminars, Talks & Poster Presentations
 
 **[S5] Clustering-based Motion Planning and Control** <br/>
@@ -120,17 +135,4 @@ Autonomous Motion Department, Max Planck Institute for Intelligent Systems, Tü
 Omur Arslan <br/>
 ESE PhD Colloquium, University of Pennsylvania, Philadelphia, USA, February 2016
 
-### Theses
 
-**[T4] On Balancing Event and Area Coverage in Mobile Sensor Networks** <br/>
-Hancheng Min <br/>
-MSc Thesis, University of Pennsylvania, PA, May 2018. (Co-supervised with Daniel E. Koditschek) <br/>
-**[T3] Joint Exploitation of Local Metrics and Geometry in Sampling-based Planning** <br/>
-Vincent Pacelli <br/>
-MSc Thesis, University of Pennsylvania, PA, August 2017. (Co-supervised with Daniel E. Koditschek) <br/>
-**[T2] Clustering-based Robot Navigation and Control**<br/> 
-Omur Arslan <br/>
-PhD Thesis, University of Pennsylvania, Philadelphia, PA, August 2016. <br/>
-**[T1] Model-based Methods for the Control and Planning of Running Robots**<br/>
-Omur Arslan <br/>
-MSc Thesis, Bilkent University, Ankara, Turkey, July 2009.
