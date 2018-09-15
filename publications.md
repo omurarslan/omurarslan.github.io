@@ -81,7 +81,7 @@ IEEE International Conference on Robotics and Automation (ICRA), pp. 1-8, Stockh
 **[C5] Voronoi-based Coverage Control of Heterogeneous Disk-shaped Robots**<br/> 
 Omur Arslan and Daniel E. Koditschek <br/>
 IEEE International Conference on Robotics and Automation (ICRA), pp. 4259-4266, Stockholm, Sweden, May 2016 <br/>
-[[pdf]](/assets/publications/arslan_koditschek_ICRA2016A.pdf) [[techreport]](/assets/publications/arslan_koditschek_arXiv2015.pdf)  [[doi]](https://doi.org/10.1109/ICRA.2016.7487622) <br/>
+[[pdf]](/assets/publications/arslan_koditschek_ICRA2016A.pdf) [[techreport]](/assets/publications/arslan_koditschek_arXiv2015.pdf) [[video]](https://www.youtube.com/watch?v=wiMXBYKWMqs)  [[doi]](https://doi.org/10.1109/ICRA.2016.7487622) <br/>
 **[C4] Hierarchically Clustered Navigation of Distinct Euclidean Particles** <br/> 
 Omur Arslan, Yuliy M. Baryshnikov, Dan P. Guralnik and Daniel E. Koditschek <br/>
 Annual Allerton Conference on Communication, Control, and Computing (Allerton), pp. 946-953, Monticello, IL, October 2012 <br/> 
