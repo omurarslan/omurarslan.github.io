@@ -1,6 +1,6 @@
 <!-- Profile Photo -->
 <div align="center">
-  <img src="{{ site.url }}/assets/omurarslan.jpg" alt="Omur Arslan, PhD - Robotics Researcher" title="Omur Arslan, PhD - Robotics Researcher" style="width:250px">
+  <img src="/assets/images/omurarslan.jpg" alt="Omur Arslan, PhD - Robotics Researcher" title="Omur Arslan, PhD - Robotics Researcher" style="width:250px">
   <br/>
   <a href="mailto:omur.arslan@tuebingen.mpg.de" style="text-decoration:none;"> <i class="fas fa-envelope" style="font-size:1.5em;color:black;"></i> </a>&nbsp;
   <a href="https://www.researchgate.net/profile/Omur_Arslan" target="_blank" style="text-decoration:none;"><i class="ai ai-researchgate-square big-icon" style="font-size:1.5em;color:black;"></i></a>&nbsp;
