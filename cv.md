@@ -11,7 +11,9 @@ description: Omur Arslan's CV
 
 ## Biography
 
+<p style="text-align:justify;">
 Omur Arslan received the Ph.D. degree in electrical and systems engineering from the University of Pennsylvania, Philadelphia, PA, USA, in 2016 and the B.Sc. and M.Sc. degrees in electrical and electronics engineering from the Middle East Technical University, Ankara, Turkey, in 2007 and from Bilkent University, Ankara, Turkey, in 2009, respectively. He is now a postdoctoral researcher in the Autonomous Motion Department at the Max Planck Institute for Intelligent Systems, Tübingen, Germany. His research interests include robotics, motion planning, sensor networks, control theory, dynamical systems, optimization, machine learning and machine perception.
+</p>
 
 ## Curriculum Vitae
 [Education](/cv#education) | [Academic Appointments](/cv#academic-appointments) | [Teaching Experience](/cv#teaching-experience) | [Honors & Awards](/cv#honors--awards) | [Profesional Activities](/cv#professional-activities)
