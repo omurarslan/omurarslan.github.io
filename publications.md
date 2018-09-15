@@ -170,7 +170,7 @@ Robotic Systems and Power Tools, Robert Bosch GmbH Center for Research and Devel
 **[S4] Navigation in the Space of Hierarchies** <br/>
 Omur Arslan <br/>
 Max Planck Institute for Intelligent Systems, Tübingen, Germany, February 2018 <br/>
-[[pdf]](/assets/publications/arslan_MPI-IS-Retreat2018Poster.pdf)<br/>
+[[poster]](/assets/publications/arslan_MPI-IS-Retreat2018Poster.pdf)<br/>
 **[S3] Motion Planning via Reference Governors: Towards closing the gap between high-level and low-level motion planning** <br/>
 Omur Arslan <br/>
 Middle East Technical University, Ankara, Turkey, July 2017 <br/>
