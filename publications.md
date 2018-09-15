@@ -77,7 +77,7 @@ The 12th International Workshop on the Algorithmic Foundations of Robotics (WAFR
 **[C6] Exact Robot Navigation using Power Diagrams**<br/>
 Omur Arslan and Daniel E. Koditschek <br/>
 IEEE International Conference on Robotics and Automation (ICRA), pp. 1-8, Stockholm, Sweden, May 2016 <br/>
-[[pdf]](/assets/publications/arslan_koditschek_ICRA2016B.pdf) [[doi]](https://doi.org/10.1109/ICRA.2016.7487090) <br/>
+[[pdf]](/assets/publications/arslan_koditschek_ICRA2016B.pdf) [[video]](https://www.youtube.com/watch?v=ywsPyViRgH4) [[doi]](https://doi.org/10.1109/ICRA.2016.7487090) <br/>
 **[C5] Voronoi-based Coverage Control of Heterogeneous Disk-shaped Robots**<br/> 
 Omur Arslan and Daniel E. Koditschek <br/>
 IEEE International Conference on Robotics and Automation (ICRA), pp. 4259-4266, Stockholm, Sweden, May 2016 <br/>
