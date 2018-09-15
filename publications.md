@@ -65,7 +65,7 @@ IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pp. 
 **[C9] Smooth Extensions of Feedback Motion Planners via Reference Governors** <br/>
 Omur Arslan and Daniel E. Koditschek <br/>
 IEEE International Conference on Robotics and Automation (ICRA), pp. 4414-4421, Singapore, May 2017 <br/>
-[[pdf]](/assets/publications/arslan_koditschek_ICRA2017.pdf) [[doi]](https://doi.org/10.1109/ICRA.2017.7989510)  <br/>
+[[pdf]](/assets/publications/arslan_koditschek_ICRA2017.pdf) [[video]](https://www.youtube.com/watch?v=b-5M6RYp1Eo) [[doi]](https://doi.org/10.1109/ICRA.2017.7989510)  <br/>
 **[C8] Detecting Poisoning Attacks on Hierarchical Malware Classification Systems** <br/>
 Dan P. Guralnik, Bill Moran, Ali Pezeshki and Omur Arslan <br/>
 Cyber Sensing, SPIE Defense + Security, Anaheim, CA, May 2017 <br/>
