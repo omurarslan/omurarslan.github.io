@@ -7,7 +7,7 @@ description: Omur Arslan's Research
 ## Research Interests
 
 <div >
-<img src="{{ site.url }}/assets/RobotsInOurEverydayLives.png" alt="The Rise of Robots in Our Everyday Lives" title="The Rise of Robots in Our Everyday Lives" style="height:240px;float:left;margin-top:0.75em;padding-right:1em;">  
+<img src="/assets/images/RobotsInOurEverydayLives2.png" alt="The Rise of Robots in Our Everyday Lives" title="The Rise of Robots in Our Everyday Lives" style="height:240px;float:left;margin-top:0.75em;padding-right:1em;">  
 <p style="text-align:justify">  
 Robots are becoming more involved in our everyday lives, because they offer a unique function – <em>autonomous mobility</em> – that no other technology provides. However, <em>safety</em> is an important requirement for robots to move around people. To actively contribute to these new developments in robotics, my current research aims to integrate perception, control and learning in the design of provably correct safe reactive motion planning algorithms for robots operating around people; for example, safe autonomous navigation in crowds of people and safe mobile manipulation with/around people. Broadly, my research interests include robotics, dynamical systems, control theory, sensor network, optimization, machine learning and machine perception. 
 </p>
