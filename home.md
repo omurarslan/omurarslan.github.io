@@ -18,7 +18,7 @@
  <ul style="padding-left:30px;">
   <li><strong>PhD in Electrical and Systems Engineering</strong>, <a href="https://www.upenn.edu/">University of Pennsylvania</a>, Philadelphia, PA, USA, August 2016</li>
   <li><strong>MSc in Electrical Engineering </strong>, <a href="https://www.upenn.edu/">University of Pennsylvania</a>, Philadelphia, PA, USA, August 2012</li>
-  <li><strong>MSc in Electrical & Electronics Engineering </strong>, <a href="http://w3.bilkent.edu.tr/bilkent/">Bilkent University</a>, Ankara, Turkey, July 2009</li>
+  <li><strong>MSc in Electrical & Electronics Engineering </strong>, <a href="http://w3.bilkent.edu.tr/bilkent/">Bilkent University</a>, Ankara, Turkey, September 2009</li>
   <li><strong>BSc in Mechatronics</strong> (Minor), <a href="http://www.metu.edu.tr/">Middle East Technical University</a>, Ankara, Turkey, July 2007</li>
   <li><strong>BSc in Electrical & Electronics Engineering</strong>, <a href="http://www.metu.edu.tr/"> Middle East Technical University</a>, Ankara, Turkey, June 2007</li>
   <li><strong>BSc in Electrical & Electronics Engineering</strong>, <a href="https://www.hacettepe.edu.tr/english/">Hacettepe University</a>, Ankara, Turkey, Sep. 2002 - Aug. 2004 (Transferred to METU)</li>
