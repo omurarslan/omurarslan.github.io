@@ -45,15 +45,15 @@ Nonlinear Dynamics, vol. 62(4):729-742, December 2010 <br/>
 Omur Arslan, Hancheng Min and Daniel E. Koditschek <br/>
 IEEE International Conference on Robotics and Automation (ICRA), Brisbane, Australia, May 2018 <br/> 
 <span style="color:darkblue;">**_(Best Paper Award Nominee on Multi-Robot Systems)_** </span><br/>
-[[pdf]](/assets/publications/arslan_min_koditschek_ICRA2018.pdf) [[video]](https://www.youtube.com/watch?v=SPgzAE6J2tA) <br/> 
+[[pdf]](/assets/publications/arslan_min_koditschek_ICRA2018.pdf) [[video]](https://www.youtube.com/watch?v=SPgzAE6J2tA) [[doi]](https://doi.org/10.1109/ICRA.2018.8460701) <br/> 
 **[C13] Integration of Local Geometry and Metric Information in Sampling-based Motion Planning**<br/>
 Vincent Pacelli, Omur Arslan and Daniel E. Koditschek <br/>
 IEEE International Conference on Robotics and Automation (ICRA), Brisbane, Australia, May 2018 <br/>
-[[pdf]](/assets/publications/pacelli_arslan_koditschek_ICRA2018.pdf) [[video]](https://www.youtube.com/watch?v=hY2yb1CwbaY)<br/>
+[[pdf]](/assets/publications/pacelli_arslan_koditschek_ICRA2018.pdf) [[video]](https://www.youtube.com/watch?v=hY2yb1CwbaY) [[doi]](https://doi.org/10.1109/ICRA.2018.8460739)<br/>
 **[C12] Sensor-based Reactive Symbolic Planning in Partially Known Environments**<br/>
 Vasileios Vasilopoulos, William Vega-Brown, Omur Arslan, Nicholas Roy and Daniel E. Koditschek <br/>
 IEEE International Conference on Robotics and Automation (ICRA), Brisbane, Australia, May 2018 <br/> 
-[[pdf]](/assets/publications/vasilopoulos_vega-brown_arslan_roy_koditschek_ICRA2018.pdf) [[techreport]](/assets/publications/vasilopoulos_vega-brown_arslan_roy_koditschek_arXiv2018.pdf) [[video]](https://www.youtube.com/watch?v=_07_q-edjmM) <br/>
+[[pdf]](/assets/publications/vasilopoulos_vega-brown_arslan_roy_koditschek_ICRA2018.pdf) [[techreport]](/assets/publications/vasilopoulos_vega-brown_arslan_roy_koditschek_arXiv2018.pdf) [[video]](https://www.youtube.com/watch?v=_07_q-edjmM) [[doi]](https://doi.org/10.1109/ICRA.2018.8460861)<br/>
 **[C11] Sensor-based Legged Robot Homing using Range-only Target Localization** <br/>
 Vasileios Vasilopoulos, Omur Arslan, Avik De and Daniel E. Koditschek <br/>
 IEEE International Conference on Robotics and Biomimetics (ROBIO), pp. 2630-2637, Macau, December 2017 <br/>
