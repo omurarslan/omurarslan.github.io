@@ -16,7 +16,7 @@ Omur Arslan received the Ph.D. degree in electrical and systems engineering from
 </p>
 
 ## Curriculum Vitae
-[Education](/cv#education) | [Academic Appointments](/cv#academic-appointments) | [Teaching Experience](/cv#teaching-experience) | [Honors & Awards](/cv#honors--awards) | [Profesional Activities](/cv#professional-activities)
+[Education](/cv#education) | [Academic Appointments](/cv#academic-appointments) | [Teaching Experience](/cv#teaching-experience) | [Honors & Awards](/cv#honors--awards) | [Professional Activities](/cv#professional-activities)
 
 
 <div>
