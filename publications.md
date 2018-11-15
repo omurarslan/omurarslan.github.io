@@ -17,7 +17,7 @@ description: Omur Arslan's Publications
 **[J6] Sensor-based Reactive Navigation in Unknown Convex Sphere Worlds**<br/> 
 Omur Arslan and Daniel E. Koditschek <br/>
 The International Journal of Robotics Research (IJRR), September 2018 <br/>
-[[pdf]](/assets/publications/arslan_koditschek_IJRR2018.pdf) [[doi]](https://doi.org/10.1177/0278364918796267)<br/>
+[[pdf]](/assets/publications/arslan_koditschek_IJRR2018.pdf) [[video1]](https://www.youtube.com/watch?v=uJNP3_ICvSM) [[video2]](https://www.youtube.com/watch?v=Fze3UnTDgzE) [[video3]](https://www.youtube.com/watch?v=jf1IoLe-Gtg) [[video4]](https://www.youtube.com/watch?v=CO-7dbr-K1Y) [[doi]](https://doi.org/10.1177/0278364918796267)<br/>
 **[J5] Discriminative Measures for Comparison of Phylogenetic Trees**<br/>
 Omur Arslan, Dan P. Guralnik and Daniel E. Koditschek <br/>
 Discrete Applied Mathematics (DAM), vol. 217(3):405-426, January 2017 <br/>
