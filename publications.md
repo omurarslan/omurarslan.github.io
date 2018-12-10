@@ -164,6 +164,10 @@ MSc Thesis, Bilkent University, Ankara, Turkey, July 2009. <br/>
 
 ### Seminars, Talks & Poster Presentations
 
+**[S6] Safe Motion Planning via Reference Governors: From Simple Navigation Policies to
+Their Smooth Extensions** <br/>
+Omur Arslan <br/>
+Computational Robotics Lab, ETH Zurich, Switzerland, November 2018 <br/>
 **[S5] Clustering-based Motion Planning and Control** <br/>
 Omur Arslan <br/>
 Robotic Systems and Power Tools, Robert Bosch GmbH Center for Research and Development, Renningen, Germany, July 2018 <br/>
