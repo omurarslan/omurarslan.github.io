@@ -118,12 +118,16 @@ Workshop on Communication-aware Robotics: New Tools for Multi-Robot Networks, Au
 
 ### Preprints & Technical Reports
 
+**[P7] Probabilistically Safe Corridors to Guide Sampling-Based Motion Planning**<br/>
+Jinwook Huh, Omur Arslan and Daniel D. Lee <br/>
+arXiv:1901.00101 [cs.RO], January 2019 <br/>
+[[pdf]](/assets/publications/huh_arslan_lee_arXiv2019.pdf) [[arXiv]](https://arxiv.org/abs/1901.00101)<br/>
 **[P6] Technical Report: Sensor-Based Reactive Symbolic Planning in Partially Known Environments**<br/>
 Vasileios Vasilopoulos, William Vega-Brown, Omur Arslan, Nicholas Roy and Daniel E. Koditschek <br/>
-arXiv:1709.05474 [cs.RO], Feb 2018 <br/>
+arXiv:1709.05474 [cs.RO], February 2018 <br/>
 [[pdf]](/assets/publications/vasilopoulos_vega-brown_arslan_roy_koditschek_arXiv2018.pdf) [[arXiv]](https://arxiv.org/abs/1709.05474) [[video]](https://www.youtube.com/watch?v=_07_q-edjmM)<br/>
 **[P5] Sensor-based Reactive Navigation in Convex Sphere Worlds**<br/>
-Omur Arslan and D.E. Koditschek <br/>
+Omur Arslan and Daniel E. Koditschek <br/>
 ESE Technical Report, January 2016 <br/>
 [[pdf]](/assets/publications/arslan_koditschek_WAFR2016TechReport.pdf) <br/>
 **[P4] Voronoi-based Coverage Control of Heterogeneous Disk-shaped Robots(Extended Version)**<br/>
