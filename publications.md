@@ -14,6 +14,10 @@ description: Omur Arslan's Publications
 
 ### Journal Articles
 
+**[J7] Statistical Coverage Control of Mobile Sensor Networks**<br/>
+Omur Arslan <br/>
+IEEE Transactions on Robotics, May 2019 <br/>
+[[pdf]](/assets/publications/arslan_TRO2019.pdf) [[video]](https://www.youtube.com/watch?v=_9ZwvgqQaxU) [[doi]](https://doi.org/10.1109/TRO.2019.2906474) <br/>
 **[J6] Sensor-based Reactive Navigation in Unknown Convex Sphere Worlds**<br/> 
 Omur Arslan and Daniel E. Koditschek <br/>
 The International Journal of Robotics Research (IJRR), September 2018 <br/>
