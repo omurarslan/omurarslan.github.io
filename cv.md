@@ -62,7 +62,7 @@ Hacettepe University, Ankara, Turkey, September 2002 - August 2004 (Transferred 
 
 ### Academic Appointments
 
-* **Postdoctoral Researcher** <br/>
+* **Research Scientist** <br/>
 Autonomous Motion Deparment, Max Plank Institute for Intelligent Systems, Tübingen, Germany<br/>
 October 2017 - present
 * **Postdoctoral Researcher** <br/>
