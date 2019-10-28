@@ -16,11 +16,11 @@ description: Omur Arslan's Publications
 
 **[J7] Statistical Coverage Control of Mobile Sensor Networks**<br/>
 Omur Arslan <br/>
-IEEE Transactions on Robotics, May 2019 <br/>
+IEEE Transactions on Robotics (T-RO), vol. 35(4):889-908, August 2019 <br/>
 [[pdf]](/assets/publications/arslan_TRO2019.pdf) [[video]](https://www.youtube.com/watch?v=_9ZwvgqQaxU) [[doi]](https://doi.org/10.1109/TRO.2019.2906474) <br/>
 **[J6] Sensor-based Reactive Navigation in Unknown Convex Sphere Worlds**<br/> 
 Omur Arslan and Daniel E. Koditschek <br/>
-The International Journal of Robotics Research (IJRR), September 2018 <br/>
+The International Journal of Robotics Research (IJRR), vol. 38(2–3):196–223, March 2019 <br/>
 [[pdf]](/assets/publications/arslan_koditschek_IJRR2018.pdf) [[video1]](https://www.youtube.com/watch?v=uJNP3_ICvSM) [[video2]](https://www.youtube.com/watch?v=Fze3UnTDgzE) [[video3]](https://www.youtube.com/watch?v=jf1IoLe-Gtg) [[video4]](https://www.youtube.com/watch?v=CO-7dbr-K1Y) [[doi]](https://doi.org/10.1177/0278364918796267)<br/>
 **[J5] Discriminative Measures for Comparison of Phylogenetic Trees**<br/>
 Omur Arslan, Dan P. Guralnik and Daniel E. Koditschek <br/>
@@ -45,6 +45,10 @@ Nonlinear Dynamics, vol. 62(4):729-742, December 2010 <br/>
 
 ### Conference Proceedings
 
+**[C15] Probabilistically Safe Corridors to Guide Sampling-Based Motion Planning**<br/>
+Jinwook Huh*, Omur Arslan* and Daniel D. Lee (* equally contributed)<br/>
+The International Symposium on Robotics Research (ISRR), Hanoi, Vietnam, October 2019 <br/>
+[[pdf]](/assets/publications/huh_arslan_lee_arXiv2019.pdf) [[arXiv]](https://arxiv.org/abs/1901.00101)<br/>
 **[C14] Voronoi-based Coverage Control of Pan/Tilt/Zoom Camera Networks**<br/> 
 Omur Arslan, Hancheng Min and Daniel E. Koditschek <br/>
 IEEE International Conference on Robotics and Automation (ICRA), Brisbane, Australia, May 2018 <br/> 
@@ -122,7 +126,7 @@ Workshop on Communication-aware Robotics: New Tools for Multi-Robot Networks, Au
 
 ### Preprints & Technical Reports
 
-**[P7] Probabilistically Safe Corridors to Guide Sampling-Based Motion Planning**<br/>
+**[P7] Probabilistically Safe Corridors to Guide Sampling-Based Motion Planning (Extended Version)**<br/>
 Jinwook Huh, Omur Arslan and Daniel D. Lee <br/>
 arXiv:1901.00101 [cs.RO], January 2019 <br/>
 [[pdf]](/assets/publications/huh_arslan_lee_arXiv2019.pdf) [[arXiv]](https://arxiv.org/abs/1901.00101)<br/>
