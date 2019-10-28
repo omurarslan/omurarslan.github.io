@@ -46,7 +46,7 @@ Nonlinear Dynamics, vol. 62(4):729-742, December 2010 <br/>
 ### Conference Proceedings
 
 **[C15] Probabilistically Safe Corridors to Guide Sampling-Based Motion Planning**<br/>
-Jinwook Huh"*", Omur Arslan"*" and Daniel D. Lee ("*" equally contributed)<br/>
+Jinwook Huh\*, Omur Arslan\* and Daniel D. Lee (\* equally contributed)<br/>
 The International Symposium on Robotics Research (ISRR), Hanoi, Vietnam, October 2019 <br/>
 [[pdf]](/assets/publications/huh_arslan_lee_arXiv2019.pdf) [[arXiv]](https://arxiv.org/abs/1901.00101)<br/>
 **[C14] Voronoi-based Coverage Control of Pan/Tilt/Zoom Camera Networks**<br/> 
