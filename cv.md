@@ -42,7 +42,7 @@ Omur Arslan received the Ph.D. degree in electrical and systems engineering from
 ### Education
 
 * **PhD in Electrical and Systems Engineering** <br/>
-University of Pennsylvania, Philadelphia, PA, USA, August 2017 <br/>
+University of Pennsylvania, Philadelphia, PA, USA, August 2016 <br/>
 _Thesis_: Clustering-Based Robot Navigation and Control <br/>
 _Advisor:_ Daniel E. Koditschek <br/>
 * **MSc in Electrical Engineering** <br/>
