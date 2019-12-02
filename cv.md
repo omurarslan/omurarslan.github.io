@@ -12,7 +12,7 @@ description: Omur Arslan's CV
 ## Biography
 
 <p style="text-align:justify;">
-Omur Arslan received the Ph.D. degree in electrical and systems engineering from the University of Pennsylvania, Philadelphia, PA, USA, in 2016 and the B.Sc. and M.Sc. degrees in electrical and electronics engineering from the Middle East Technical University, Ankara, Turkey, in 2007 and from Bilkent University, Ankara, Turkey, in 2009, respectively. He is now a postdoctoral researcher in the Autonomous Motion Department at the Max Planck Institute for Intelligent Systems, Tübingen, Germany. His research interests include robotics, motion planning, sensor networks, control theory, dynamical systems, optimization, machine learning and machine perception.
+Omur Arslan received the Ph.D. degree in electrical and systems engineering from the University of Pennsylvania, Philadelphia, PA, USA, in 2016 and the B.Sc. and M.Sc. degrees in electrical and electronics engineering from the Middle East Technical University, Ankara, Turkey, in 2007 and from Bilkent University, Ankara, Turkey, in 2009, respectively. He is now a tenure-track assistant professor in the Department of Mechanical Engineering at the Eindhoven University of Technology (TU/e). Prior to that, he was a research scientist at the Max Planck Institute for Intelligent Systems in Tübingen, Germany and a postoctoral researcher at the University of Pennsylvania in Philadelphia, USA. His research interests include robotics, motion planning, sensor networks, control theory, dynamical systems, optimization, machine learning and machine perception.
 </p>
 
 ## Curriculum Vitae
@@ -62,9 +62,12 @@ Hacettepe University, Ankara, Turkey, September 2002 - August 2004 (Transferred 
 
 ### Academic Appointments
 
+* **Assistant Professor** <br/>
+Deparment of Mechanical Engineering, Eindhoven University of Technology, Eindhoven, Netherlands<br/>
+November 2019 - present
 * **Research Scientist** <br/>
 Autonomous Motion Deparment, Max Plank Institute for Intelligent Systems, Tübingen, Germany<br/>
-October 2017 - present
+October 2017 - November 2019
 * **Postdoctoral Researcher** <br/>
 Department of Electrical and Systems Engineering, University of Pennsylvania, Philadelphia, PA, USA <br/>
 _Mentor: Daniel E. Koditschek_ <br/>
@@ -130,8 +133,8 @@ _(Awarded for attaining the highest rank in a semester with GPA 4.00/4.00)_
 
 #### Reviewer
 
-* **Journals:** IEEE Transaction on Robotics (T-RO), IEEE Robotics and Automation Letters (RAL), IEEE Transactions on Automatic Control (TAC), Automatica, Autonomous Robots, Frontiers in Robotics and AI
-* **Conferences:** IEEE International Conference on Robotics and Automation (ICRA), IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), International Conference on Advanced Robotics (ICAR), IEEE RAS/EMBS International Conference on Biomedical Robotics and Biomechatronics (BioRob), IEEE Conference on Decision and Control (CDC), American Control Conference (ACC)
+* **Journals:** IEEE Transaction on Robotics (T-RO), IEEE Robotics and Automation Letters (RAL), IEEE Transactions on Automatic Control (TAC), IEEE Transactions on Control Systems Technology (TCST), IEEE Transactions on Control of Network Systems (TCNS), Automatica, Autonomous Robots, Frontiers in Robotics and AI
+* **Conferences:** IEEE International Conference on Robotics and Automation (ICRA), IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), International Symposium on Robotics Research (ISRR), International Symposium on Experimental Robotics (ISER), International Conference on Advanced Robotics (ICAR), IEEE RAS/EMBS International Conference on Biomedical Robotics and Biomechatronics (BioRob), IEEE Conference on Decision and Control (CDC), American Control Conference (ACC)
 
 #### Society Membership
 
