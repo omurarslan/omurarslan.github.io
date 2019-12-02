@@ -177,8 +177,8 @@ MSc Thesis, Bilkent University, Ankara, Turkey, July 2009. <br/>
 ### Seminars, Talks & Poster Presentations
 
 **[S9] Statistical Coverage Control of Mobile Sensor Networks** <br/>
-Omur Arslan </br>
-IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Macau, China, November 2019.  
+Omur Arslan <br/>
+IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Macau, China, November 2019.  <br/>
 **[S8] Safe Motion Planning via Reference Governors: From Simple Navigation Policies to
 Their Smooth Extensions** <br/>
 Omur Arslan <br/>
