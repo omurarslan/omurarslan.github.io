@@ -6,9 +6,9 @@
 
  
 <div style="width:70%;padding-left:270px;">
-<p style="text-align:justify;"> I am currently a research scientist in the <a href="https://am.is.tuebingen.mpg.de/">Autonomous Motion</a> Department at the <a href="https://is.mpg.de/">Max Planck Institute for Intelligent Systems</a>, Tübingen, Germany. I received my PhD degree from the Department of <a href="https://www.ese.upenn.edu/">Electrical and Systems Engineering</a> at the <a href="https://www.upenn.edu/">University of Pennsylvania</a> in 2016 under the supervision of <a href="https://kodlab.seas.upenn.edu/">Daniel E. Koditschek</a>.
+<p style="text-align:justify;"> I am currently a tenure-track assistant professor in the <a href="https://www.tue.nl/en/our-university/departments/mechanical-engineering/">Department of Mechanical Engineering</a> at the <a href="https://www.tue.nl/en/">Eindhoven University of Technology (TU/e)</a> and afficiliated with the <a href="https://www.tue.nl/en/research/research-groups/dynamics-and-control/">Dynamics and Control</a> research group. Prior joining to TU/e, I was a research scientist in the <a href="https://am.is.tuebingen.mpg.de/">Autonomous Motion</a> Department at the <a href="https://is.mpg.de/">Max Planck Institute for Intelligent Systems</a>, Tübingen, Germany (Oct. 2017 - Nov.2019) and a postdoctoral researcher at the University of Pennsylvania in Philadelphia, USA (Aug. 2016 – Oct. 2017). I received my PhD degree in 2016 from the Department of <a href="https://www.ese.upenn.edu/">Electrical and Systems Engineering</a> at the <a href="https://www.upenn.edu/">University of Pennsylvania</a> where I was a member of the <a href="https://kodlab.seas.upenn.edu/">KodLab</a> and <a href="https://www.grasp.upenn.edu/">GRASP</a> labs.
 </p>
-<p style="text-align:justify;"> My current research focuses on the algorithmic foundations of robotics. My research goal is to integrate learning, sensing, control and geometry for the design of safe feedback motion planning algorithms, especially for robots operating around people. Broadly, my research interests include robotics, motion planning, sensor networks, control theory, dynamical systems, optimization, machine learning and machine perception.
+<p style="text-align:justify;"> My current research focuses on the algorithmic foundations of robotics. My research goal at TU/e is to integrate perception, control and learning in the design of provably correct safe adaptive motion planning algorithms for robots operating around people. In addition to my research on safe autonomous mobility, I also conduct research on estimation and control in mobile sensor networks for active information gathering. Broadly, my research interests include robotics, motion planning, sensor networks, control theory, dynamical systems, optimization, machine learning and machine perception.
  </p>
 </div>  
 </div>
@@ -31,4 +31,5 @@
  <a href="http://w3.bilkent.edu.tr/bilkent/"><img src="/assets/images/bilkent-logo.png" style="height:50px"></a> &nbsp; &nbsp;
  <a href="https://www.upenn.edu/"><img src="/assets/images/upenn-logo.png" alt="UPenn" title="University of Pennsylvania" style="height:50px"></a> &nbsp; &nbsp;
  <a href="https://is.mpg.de/"><img src="/assets/images/mpi-logo.png" alt="MPI" title="Max Planck Institute for Intelligent Systems" style="height:50px"></a> &nbsp; &nbsp;
+ <a href="https://www.tue.nl/en/"><img src="/assets/images/tue-logo.png" alt="TU/e" title="Eindhoven University of Technology" style="height:50px"></a> &nbsp; &nbsp;
  </div>
