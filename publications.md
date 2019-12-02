@@ -179,11 +179,11 @@ MSc Thesis, Bilkent University, Ankara, Turkey, July 2009. <br/>
 **[S8] Safe Motion Planning via Reference Governors: From Simple Navigation Policies to
 Their Smooth Extensions** <br/>
 Omur Arslan <br/>
-Department of Mechanical Engineering, Eindhoven University of Technology, Eindhoven, Nethrelands, May 2019 <br/>
+Department of Mechanical Engineering, Eindhoven University of Technology, Eindhoven, Netherlands, May 2019 <br/>
 **[S7] Safe Motion Planning via Reference Governors: From Simple Navigation Policies to
 Their Smooth Extensions** <br/>
 Omur Arslan <br/>
-Cognitive Robotics Department, Delft University of Technology, Delft, Nethrelands, April 2019 <br/>
+Cognitive Robotics Department, Delft University of Technology, Delft, Netherlands, April 2019 <br/>
 **[S6] Safe Motion Planning via Reference Governors: From Simple Navigation Policies to
 Their Smooth Extensions** <br/>
 Omur Arslan <br/>
