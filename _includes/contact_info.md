@@ -1,9 +1,10 @@
 <!-- Contact Information -->
 <p> 
-  Autonomous Motion Department <br/>
-  Max Planck Institute for Intelligent Systems <br/>
-  Max-Planck-Ring 4 <br/>
-  Tübingen, Germany 72076<br/>
-  Email: <a href="mailto:omur.arslan@tuebingen.mpg.de">omur.arslan@tuebingen.mpg.de</a> <br/>
-  Office: N2.017   
+  Department of Mechanical Engineering <br/>
+  Eindhoven University of Technology <br/>
+  Building Gemini Zuid <br/>
+  Groene Loper 5 <br/>
+  5612 AE Eindhoven, Netherlands<br/>
+  Email: <a href="mailto:o.arslan@tue.nl">o.arslan@tue.nl</a> <br/>
+  Office: -1.133   
 </p>
