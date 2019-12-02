@@ -25,13 +25,16 @@ Omur Arslan received the Ph.D. degree in electrical and systems engineering from
 </div> 
  
 <div style="width:70%;padding-left:280px;">
+  <!--<br/>
   <br/>
   <br/>
   <br/>
-  <br/>
-  <br/>
+  <br/>-->
   <h3> Contact Information</h3>
   {% include contact_info.md %}
+  <h3> Mailing Address</h3>
+  {% include mail_info.md %}
+
 </div>  
 </div>
 
